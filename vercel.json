@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/index.html"
+      "dest": "/主页.html"
     },
     {
       "src": "/写作/(.*)",
