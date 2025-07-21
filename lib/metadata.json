@@ -1,6 +1,6 @@
 {
   "vaultName": "note",
-  "lastExport": 1753080814581,
+  "lastExport": 1753092313136,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager styled-scrollbars theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -81,6 +81,7 @@
     "写作/自洽.md",
     "写作/自我管理.md",
     "写作/尊重对手.md",
+    "Excalidraw/Drawing 2025-07-21 18.04.08.excalidraw.md",
     "主页.md",
     "test base.base",
     "test canvas.canvas",
@@ -102,6 +103,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -115,7 +138,8 @@
     "lib/styles/obsidian.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "test-pic.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -135,6 +159,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -151,760 +197,310 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "写作/日记/October 10th, 2024.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 326,
-      "exportedPath": "写作/日记/october-10th,-2024.html",
-      "dependencies": []
-    },
-    "写作/日记/October 11th, 2024.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 239,
-      "exportedPath": "写作/日记/october-11th,-2024.html",
-      "dependencies": []
-    },
-    "写作/个人原则.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 811,
-      "exportedPath": "写作/个人原则.html",
-      "dependencies": []
-    },
-    "写作/个人投资方法.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1585,
-      "exportedPath": "写作/个人投资方法.html",
-      "dependencies": []
-    },
-    "写作/主见.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1070,
-      "exportedPath": "写作/主见.html",
-      "dependencies": []
-    },
-    "写作/二过.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 590,
-      "exportedPath": "写作/二过.html",
-      "dependencies": []
-    },
-    "写作/亲密关系.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 192,
-      "exportedPath": "写作/亲密关系.html",
-      "dependencies": []
-    },
-    "写作/信仰.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1126,
-      "exportedPath": "写作/信仰.html",
-      "dependencies": []
-    },
-    "写作/偏执狂.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 714,
-      "exportedPath": "写作/偏执狂.html",
-      "dependencies": []
-    },
-    "写作/具体的人.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1418,
-      "exportedPath": "写作/具体的人.html",
-      "dependencies": []
-    },
-    "写作/写作.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 972,
-      "exportedPath": "写作/写作.html",
-      "dependencies": []
-    },
-    "写作/击垮.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 327,
-      "exportedPath": "写作/击垮.html",
-      "dependencies": []
-    },
-    "写作/功德箱管理员.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 917,
-      "exportedPath": "写作/功德箱管理员.html",
-      "dependencies": []
-    },
-    "写作/匠人.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 28,
-      "exportedPath": "写作/匠人.html",
-      "dependencies": []
-    },
-    "写作/十年树木.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 2183,
-      "exportedPath": "写作/十年树木.html",
-      "dependencies": []
-    },
-    "写作/善恶.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1025,
-      "exportedPath": "写作/善恶.html",
-      "dependencies": []
-    },
-    "写作/大隐隐于市.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 361,
-      "exportedPath": "写作/大隐隐于市.html",
-      "dependencies": []
-    },
-    "写作/婚姻.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 121,
-      "exportedPath": "写作/婚姻.html",
-      "dependencies": []
-    },
-    "写作/安心.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 117,
-      "exportedPath": "写作/安心.html",
-      "dependencies": []
-    },
-    "写作/家庭.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 220,
-      "exportedPath": "写作/家庭.html",
-      "dependencies": []
-    },
-    "写作/尊重对手.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1440,
-      "exportedPath": "写作/尊重对手.html",
-      "dependencies": []
-    },
-    "写作/差不多先生.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 495,
-      "exportedPath": "写作/差不多先生.html",
-      "dependencies": []
-    },
-    "写作/德配位.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 136,
-      "exportedPath": "写作/德配位.html",
-      "dependencies": []
-    },
-    "写作/心魔.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 190,
-      "exportedPath": "写作/心魔.html",
-      "dependencies": []
-    },
-    "写作/悟.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 77,
-      "exportedPath": "写作/悟.html",
-      "dependencies": []
-    },
-    "写作/情绪.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 168,
-      "exportedPath": "写作/情绪.html",
-      "dependencies": []
-    },
-    "写作/成功.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 454,
-      "exportedPath": "写作/成功.html",
-      "dependencies": []
-    },
-    "写作/成功概率.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 2812,
-      "exportedPath": "写作/成功概率.html",
-      "dependencies": []
-    },
-    "写作/成熟.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 61,
-      "exportedPath": "写作/成熟.html",
-      "dependencies": []
-    },
-    "写作/我是一棵树.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 814,
-      "exportedPath": "写作/我是一棵树.html",
-      "dependencies": []
-    },
-    "写作/拒绝.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 143,
-      "exportedPath": "写作/拒绝.html",
-      "dependencies": []
-    },
-    "写作/排列组合.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 397,
-      "exportedPath": "写作/排列组合.html",
-      "dependencies": []
-    },
-    "写作/新语.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 617,
-      "exportedPath": "写作/新语.html",
-      "dependencies": []
-    },
-    "写作/无限趋近于零.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1203,
-      "exportedPath": "写作/无限趋近于零.html",
-      "dependencies": []
-    },
-    "写作/时间旅行者.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1649,
-      "exportedPath": "写作/时间旅行者.html",
-      "dependencies": []
-    },
-    "写作/朋友.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 733,
-      "exportedPath": "写作/朋友.html",
-      "dependencies": []
-    },
-    "写作/榜样.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 719,
-      "exportedPath": "写作/榜样.html",
-      "dependencies": []
-    },
-    "写作/正确.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 458,
-      "exportedPath": "写作/正确.html",
-      "dependencies": []
-    },
-    "写作/比较.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 3056,
-      "exportedPath": "写作/比较.html",
-      "dependencies": []
-    },
-    "写作/毫不费力.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 631,
-      "exportedPath": "写作/毫不费力.html",
-      "dependencies": []
-    },
-    "写作/沟通.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 209,
-      "exportedPath": "写作/沟通.html",
-      "dependencies": []
-    },
-    "写作/消费品.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 226,
-      "exportedPath": "写作/消费品.html",
-      "dependencies": []
-    },
-    "写作/状态.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 2068,
-      "exportedPath": "写作/状态.html",
-      "dependencies": []
-    },
-    "写作/玩笑.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 52,
-      "exportedPath": "写作/玩笑.html",
-      "dependencies": []
-    },
-    "写作/生命很美好.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 116,
-      "exportedPath": "写作/生命很美好.html",
-      "dependencies": []
-    },
-    "写作/瘾.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 318,
-      "exportedPath": "写作/瘾.html",
-      "dependencies": []
-    },
-    "写作/眼镜时代.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 773,
-      "exportedPath": "写作/眼镜时代.html",
-      "dependencies": []
-    },
-    "写作/知行合一.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 277,
-      "exportedPath": "写作/知行合一.html",
-      "dependencies": []
-    },
-    "写作/破局.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 250,
-      "exportedPath": "写作/破局.html",
-      "dependencies": []
-    },
-    "写作/童年视角.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 295,
-      "exportedPath": "写作/童年视角.html",
-      "dependencies": []
-    },
-    "写作/精气神.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 482,
-      "exportedPath": "写作/精气神.html",
-      "dependencies": []
-    },
-    "写作/红绿灯.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 364,
-      "exportedPath": "写作/红绿灯.html",
-      "dependencies": []
-    },
-    "写作/经验.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 475,
-      "exportedPath": "写作/经验.html",
-      "dependencies": []
-    },
-    "写作/继承与遗传.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 345,
-      "exportedPath": "写作/继承与遗传.html",
-      "dependencies": []
-    },
-    "写作/聪明.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 841,
-      "exportedPath": "写作/聪明.html",
-      "dependencies": []
-    },
-    "写作/自发乐.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 220,
-      "exportedPath": "写作/自发乐.html",
-      "dependencies": []
-    },
-    "写作/自我管理.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 693,
-      "exportedPath": "写作/自我管理.html",
-      "dependencies": []
-    },
-    "写作/自洽.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 292,
-      "exportedPath": "写作/自洽.html",
-      "dependencies": []
-    },
-    "写作/节奏.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1125,
-      "exportedPath": "写作/节奏.html",
-      "dependencies": []
-    },
-    "写作/表演.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 911,
-      "exportedPath": "写作/表演.html",
-      "dependencies": []
-    },
-    "写作/观点.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 53,
-      "exportedPath": "写作/观点.html",
-      "dependencies": []
-    },
-    "写作/计划.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 932,
-      "exportedPath": "写作/计划.html",
-      "dependencies": []
-    },
-    "写作/谦虚.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 88,
-      "exportedPath": "写作/谦虚.html",
-      "dependencies": []
-    },
-    "写作/责任.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 5824,
-      "exportedPath": "写作/责任.html",
-      "dependencies": []
-    },
-    "写作/赢.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 5450,
-      "exportedPath": "写作/赢.html",
-      "dependencies": []
-    },
-    "写作/通用学习路径.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 486,
-      "exportedPath": "写作/通用学习路径.html",
-      "dependencies": []
-    },
-    "写作/错的意义.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1239,
-      "exportedPath": "写作/错的意义.html",
-      "dependencies": []
-    },
-    "写作/镜.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 1089,
-      "exportedPath": "写作/镜.html",
-      "dependencies": []
-    },
-    "写作/阅读.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 214,
-      "exportedPath": "写作/阅读.html",
-      "dependencies": []
-    },
-    "写作/集体.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 166,
-      "exportedPath": "写作/集体.html",
-      "dependencies": []
-    },
-    "写作/面子.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 183,
-      "exportedPath": "写作/面子.html",
-      "dependencies": []
-    },
-    "写作/鞠躬.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 144,
-      "exportedPath": "写作/鞠躬.html",
-      "dependencies": []
-    },
-    "写作/风采.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 176,
-      "exportedPath": "写作/风采.html",
-      "dependencies": []
-    },
-    "写作/风险.md": {
-      "modifiedTime": 1753004414006,
-      "sourceSize": 968,
-      "exportedPath": "写作/风险.html",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1753020741005,
+      "modifiedTime": 1753092313136,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 55658,
+      "modifiedTime": 1753092313136,
+      "sourceSize": 57522,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 2218,
+      "modifiedTime": 1753092313136,
+      "sourceSize": 2310,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 165306,
+      "modifiedTime": 1753092313136,
+      "sourceSize": 165488,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 228400,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "主页.md": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 374,
-      "exportedPath": "主页.html",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
@@ -913,26 +509,6 @@
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
-    "写作/专注.md": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 70,
-      "exportedPath": "写作/专注.html",
-      "dependencies": []
-    },
-    "test base.base": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 70,
-      "exportedPath": "test-base.base",
-      "dependencies": []
-    },
-    "test canvas.canvas": {
-      "modifiedTime": 1753080814581,
-      "sourceSize": 609,
-      "exportedPath": "test-canvas.html",
-      "dependencies": [
-        "test-pic.png"
-      ]
-    },
     "test pic.png": {
       "modifiedTime": 1753080814581,
       "sourceSize": 49615,
@@ -940,21 +516,497 @@
       "dependencies": []
     },
     "test-pic.png": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 49615,
       "exportedPath": "test-pic.png",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1753080814581,
+      "modifiedTime": 1753092313136,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "写作/日记/October 10th, 2024.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 326,
+      "exportedPath": "写作/日记/october-10th,-2024.html",
+      "dependencies": []
+    },
+    "写作/日记/October 11th, 2024.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 239,
+      "exportedPath": "写作/日记/october-11th,-2024.html",
+      "dependencies": []
+    },
+    "写作/安心.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 117,
+      "exportedPath": "写作/安心.html",
+      "dependencies": []
+    },
+    "写作/榜样.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 719,
+      "exportedPath": "写作/榜样.html",
+      "dependencies": []
+    },
+    "写作/比较.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 3056,
+      "exportedPath": "写作/比较.html",
+      "dependencies": []
+    },
+    "写作/表演.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 911,
+      "exportedPath": "写作/表演.html",
+      "dependencies": []
+    },
+    "写作/差不多先生.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 495,
+      "exportedPath": "写作/差不多先生.html",
+      "dependencies": []
+    },
+    "写作/成功.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 454,
+      "exportedPath": "写作/成功.html",
+      "dependencies": []
+    },
+    "写作/成功概率.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 2812,
+      "exportedPath": "写作/成功概率.html",
+      "dependencies": []
+    },
+    "写作/成熟.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 61,
+      "exportedPath": "写作/成熟.html",
+      "dependencies": []
+    },
+    "写作/聪明.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 841,
+      "exportedPath": "写作/聪明.html",
+      "dependencies": []
+    },
+    "写作/错的意义.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1239,
+      "exportedPath": "写作/错的意义.html",
+      "dependencies": []
+    },
+    "写作/大隐隐于市.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 361,
+      "exportedPath": "写作/大隐隐于市.html",
+      "dependencies": []
+    },
+    "写作/德配位.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 136,
+      "exportedPath": "写作/德配位.html",
+      "dependencies": []
+    },
+    "写作/二过.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 590,
+      "exportedPath": "写作/二过.html",
+      "dependencies": []
+    },
+    "写作/风采.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 176,
+      "exportedPath": "写作/风采.html",
+      "dependencies": []
+    },
+    "写作/风险.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 968,
+      "exportedPath": "写作/风险.html",
+      "dependencies": []
+    },
+    "写作/个人投资方法.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1585,
+      "exportedPath": "写作/个人投资方法.html",
+      "dependencies": []
+    },
+    "写作/个人原则.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 811,
+      "exportedPath": "写作/个人原则.html",
+      "dependencies": []
+    },
+    "写作/功德箱管理员.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 917,
+      "exportedPath": "写作/功德箱管理员.html",
+      "dependencies": []
+    },
+    "写作/沟通.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 209,
+      "exportedPath": "写作/沟通.html",
+      "dependencies": []
+    },
+    "写作/观点.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 53,
+      "exportedPath": "写作/观点.html",
+      "dependencies": []
+    },
+    "写作/毫不费力.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 631,
+      "exportedPath": "写作/毫不费力.html",
+      "dependencies": []
+    },
+    "写作/红绿灯.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 364,
+      "exportedPath": "写作/红绿灯.html",
+      "dependencies": []
+    },
+    "写作/婚姻.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 121,
+      "exportedPath": "写作/婚姻.html",
+      "dependencies": []
+    },
+    "写作/击垮.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 327,
+      "exportedPath": "写作/击垮.html",
+      "dependencies": []
+    },
+    "写作/集体.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 166,
+      "exportedPath": "写作/集体.html",
+      "dependencies": []
+    },
+    "写作/计划.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 932,
+      "exportedPath": "写作/计划.html",
+      "dependencies": []
+    },
+    "写作/继承与遗传.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 345,
+      "exportedPath": "写作/继承与遗传.html",
+      "dependencies": []
+    },
+    "写作/家庭.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 220,
+      "exportedPath": "写作/家庭.html",
+      "dependencies": []
+    },
+    "写作/匠人.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 28,
+      "exportedPath": "写作/匠人.html",
+      "dependencies": []
+    },
+    "写作/节奏.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1125,
+      "exportedPath": "写作/节奏.html",
+      "dependencies": []
+    },
+    "写作/经验.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 475,
+      "exportedPath": "写作/经验.html",
+      "dependencies": []
+    },
+    "写作/精气神.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 482,
+      "exportedPath": "写作/精气神.html",
+      "dependencies": []
+    },
+    "写作/镜.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1089,
+      "exportedPath": "写作/镜.html",
+      "dependencies": []
+    },
+    "写作/鞠躬.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 144,
+      "exportedPath": "写作/鞠躬.html",
+      "dependencies": []
+    },
+    "写作/拒绝.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 143,
+      "exportedPath": "写作/拒绝.html",
+      "dependencies": []
+    },
+    "写作/具体的人.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1418,
+      "exportedPath": "写作/具体的人.html",
+      "dependencies": []
+    },
+    "写作/面子.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 183,
+      "exportedPath": "写作/面子.html",
+      "dependencies": []
+    },
+    "写作/排列组合.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 397,
+      "exportedPath": "写作/排列组合.html",
+      "dependencies": []
+    },
+    "写作/朋友.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 733,
+      "exportedPath": "写作/朋友.html",
+      "dependencies": []
+    },
+    "写作/偏执狂.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 714,
+      "exportedPath": "写作/偏执狂.html",
+      "dependencies": []
+    },
+    "写作/破局.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 250,
+      "exportedPath": "写作/破局.html",
+      "dependencies": []
+    },
+    "写作/谦虚.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 88,
+      "exportedPath": "写作/谦虚.html",
+      "dependencies": []
+    },
+    "写作/亲密关系.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 192,
+      "exportedPath": "写作/亲密关系.html",
+      "dependencies": []
+    },
+    "写作/情绪.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 168,
+      "exportedPath": "写作/情绪.html",
+      "dependencies": []
+    },
+    "写作/善恶.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1025,
+      "exportedPath": "写作/善恶.html",
+      "dependencies": []
+    },
+    "写作/生命很美好.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 116,
+      "exportedPath": "写作/生命很美好.html",
+      "dependencies": []
+    },
+    "写作/十年树木.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 2183,
+      "exportedPath": "写作/十年树木.html",
+      "dependencies": []
+    },
+    "写作/时间旅行者.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1649,
+      "exportedPath": "写作/时间旅行者.html",
+      "dependencies": []
+    },
+    "写作/通用学习路径.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 486,
+      "exportedPath": "写作/通用学习路径.html",
+      "dependencies": []
+    },
+    "写作/童年视角.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 295,
+      "exportedPath": "写作/童年视角.html",
+      "dependencies": []
+    },
+    "写作/玩笑.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 52,
+      "exportedPath": "写作/玩笑.html",
+      "dependencies": []
+    },
+    "写作/我是一棵树.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 814,
+      "exportedPath": "写作/我是一棵树.html",
+      "dependencies": []
+    },
+    "写作/无限趋近于零.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1203,
+      "exportedPath": "写作/无限趋近于零.html",
+      "dependencies": []
+    },
+    "写作/悟.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 77,
+      "exportedPath": "写作/悟.html",
+      "dependencies": []
+    },
+    "写作/消费品.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 226,
+      "exportedPath": "写作/消费品.html",
+      "dependencies": []
+    },
+    "写作/写作.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 972,
+      "exportedPath": "写作/写作.html",
+      "dependencies": []
+    },
+    "写作/心魔.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 190,
+      "exportedPath": "写作/心魔.html",
+      "dependencies": []
+    },
+    "写作/新语.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 617,
+      "exportedPath": "写作/新语.html",
+      "dependencies": []
+    },
+    "写作/信仰.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1126,
+      "exportedPath": "写作/信仰.html",
+      "dependencies": []
+    },
+    "写作/眼镜时代.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 773,
+      "exportedPath": "写作/眼镜时代.html",
+      "dependencies": []
+    },
+    "写作/瘾.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 318,
+      "exportedPath": "写作/瘾.html",
+      "dependencies": []
+    },
+    "写作/赢.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 5450,
+      "exportedPath": "写作/赢.html",
+      "dependencies": []
+    },
+    "写作/阅读.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 214,
+      "exportedPath": "写作/阅读.html",
+      "dependencies": []
+    },
+    "写作/责任.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 5824,
+      "exportedPath": "写作/责任.html",
+      "dependencies": []
+    },
+    "写作/正确.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 458,
+      "exportedPath": "写作/正确.html",
+      "dependencies": []
+    },
+    "写作/知行合一.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 277,
+      "exportedPath": "写作/知行合一.html",
+      "dependencies": []
+    },
+    "写作/主见.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1070,
+      "exportedPath": "写作/主见.html",
+      "dependencies": []
+    },
+    "写作/专注.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 70,
+      "exportedPath": "写作/专注.html",
+      "dependencies": []
+    },
+    "写作/状态.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 2068,
+      "exportedPath": "写作/状态.html",
+      "dependencies": []
+    },
+    "写作/自发乐.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 220,
+      "exportedPath": "写作/自发乐.html",
+      "dependencies": []
+    },
+    "写作/自洽.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 292,
+      "exportedPath": "写作/自洽.html",
+      "dependencies": []
+    },
+    "写作/自我管理.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 693,
+      "exportedPath": "写作/自我管理.html",
+      "dependencies": []
+    },
+    "写作/尊重对手.md": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 1440,
+      "exportedPath": "写作/尊重对手.html",
+      "dependencies": []
+    },
+    "主页.md": {
+      "modifiedTime": 1753092313136,
+      "sourceSize": 376,
+      "exportedPath": "主页.html",
+      "dependencies": []
+    },
+    "test base.base": {
+      "modifiedTime": 1753092162204,
+      "sourceSize": 70,
+      "exportedPath": "test-base.base",
+      "dependencies": []
+    },
+    "test canvas.canvas": {
+      "modifiedTime": 1753092313136,
+      "sourceSize": 879,
+      "exportedPath": "test-canvas.html",
+      "dependencies": [
+        "test-pic.png"
+      ]
+    },
+    "Excalidraw/Drawing 2025-07-21 18.04.08.excalidraw.md": {
+      "modifiedTime": 1753092313136,
+      "sourceSize": 2469,
+      "exportedPath": "excalidraw/drawing-2025-07-21-18.04.08.excalidraw.html",
       "dependencies": []
     }
   }

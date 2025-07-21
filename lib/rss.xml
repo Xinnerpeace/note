@@ -1,20 +1,107 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[note]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://note-gamma-eight.vercel.app/</link><image><url>https://note-gamma-eight.vercel.app/lib/media/favicon.png</url><title>note</title><link>https://note-gamma-eight.vercel.app/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Jul 2025 06:53:36 GMT</lastBuildDate><atom:link href="https://note-gamma-eight.vercel.app/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Jul 2025 06:53:34 GMT</pubDate><copyright><![CDATA[Xinnerpeace]]></copyright><ttl>60</ttl><dc:creator>Xinnerpeace</dc:creator><item><title><![CDATA[专注]]></title><description><![CDATA[ 
- <br>乔布斯: Focusing is about saying no. 专注的本质就是说不。]]></description><link>https://note-gamma-eight.vercel.app/写作/专注.html</link><guid isPermaLink="false">写作/专注.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 21 Jul 2025 03:29:09 GMT</pubDate></item><item><title><![CDATA[主页]]></title><description><![CDATA[ 
- <br><br>This is an H2 header. You should&nbsp;always&nbsp;start your document with an H2 if you are using the inline title. And you should only ever have a single H1 in your document.<br><br>H3<br>This header is nested inside!<br><br>You can put&nbsp;markdown&nbsp;in&nbsp;headers<br><br>We're back to H3<br>And that's it for the outline!]]></description><link>https://note-gamma-eight.vercel.app/主页.html</link><guid isPermaLink="false">主页.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 21 Jul 2025 02:06:12 GMT</pubDate></item><item><title><![CDATA[October 10th, 2024]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[note]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://note-gamma-eight.vercel.app/</link><image><url>https://note-gamma-eight.vercel.app/lib/media/favicon.png</url><title>note</title><link>https://note-gamma-eight.vercel.app/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Jul 2025 10:05:18 GMT</lastBuildDate><atom:link href="https://note-gamma-eight.vercel.app/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Jul 2025 10:05:13 GMT</pubDate><copyright><![CDATA[Xinnerpeace]]></copyright><ttl>60</ttl><dc:creator>Xinnerpeace</dc:creator><item><title><![CDATA[Drawing 2025-07-21 18.04.08]]></title><description><![CDATA[ 
+ ]]></description><link>https://note-gamma-eight.vercel.app/excalidraw/drawing-2025-07-21-18.04.08.excalidraw.html</link><guid isPermaLink="false">Excalidraw/Drawing 2025-07-21 18.04.08.excalidraw.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 21 Jul 2025 10:04:47 GMT</pubDate></item><item><title><![CDATA[主页]]></title><description><![CDATA[ 
+ <br><br>This is an H2 header. You should&nbsp;always&nbsp;start your document with an H2 if you are using the inline title. And you should only ever have a single H1 in your document.<br><br>H3<br>This header is nested inside!<br><br>You can put&nbsp;markdown&nbsp;in&nbsp;headers<br><br>We're back to H3<br>And that's it for the outline!]]></description><link>https://note-gamma-eight.vercel.app/主页.html</link><guid isPermaLink="false">主页.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 21 Jul 2025 10:04:04 GMT</pubDate></item><item><title><![CDATA[test canvas]]></title><description><![CDATA[ 
+ <br>Canvas<br><br>This is an H2 header. You should&nbsp;always&nbsp;start your document with an H2 if you are using the inline title. And you should only ever have a single H1 in your document.<br><br>H3<br>This header is nested inside!<br><br>You can put&nbsp;markdown&nbsp;in&nbsp;headers<br><br>We're back to H3<br>And that's it for the outline!主页<img src="https://note-gamma-eight.vercel.app/test-pic.png" draggable="false">test pic.pngDrawing 2025-07-21 18.04.08.excalidraw]]></description><link>https://note-gamma-eight.vercel.app/test-canvas.html</link><guid isPermaLink="false">test canvas.canvas</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 21 Jul 2025 10:04:57 GMT</pubDate><enclosure url="https://note-gamma-eight.vercel.app/test-pic.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://note-gamma-eight.vercel.app/test-pic.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[October 10th, 2024]]></title><description><![CDATA[ 
  <br>年轻时的努力比较有价值.
 今天开始, 每天写一篇日记. 不在乎字数, 不在乎质量, 只在乎坚持.
-用了4年Logseq, 现在开始使用Obsidian. 因为大语言模型的进展, 双链不再那么重要了, 返璞归真的md可能是更高效的选择. 不知道Logseq的数据库版本会何去何从.]]></description><link>写作\日记\october-10th,-2024.html</link><guid isPermaLink="false">写作/日记/October 10th, 2024.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Thu, 10 Oct 2024 07:45:03 GMT</pubDate></item><item><title><![CDATA[October 11th, 2024]]></title><description><![CDATA[ 
+用了4年Logseq, 现在开始使用Obsidian. 因为大语言模型的进展, 双链不再那么重要了, 返璞归真的md可能是更高效的选择. 不知道Logseq的数据库版本会何去何从.]]></description><link>https://note-gamma-eight.vercel.app/写作/日记/october-10th,-2024.html</link><guid isPermaLink="false">写作/日记/October 10th, 2024.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Thu, 10 Oct 2024 07:45:03 GMT</pubDate></item><item><title><![CDATA[October 11th, 2024]]></title><description><![CDATA[ 
  <br>昨日2点入睡 早上9点醒来 10点才上班.
 王贞怡去北京出差, 辛苦, 但她对日子充满热情, 各种小事都能使她开心.
-明天堂妹的婚礼与王启成的订婚仪式冲突, 并且都在调休的周六工作日.]]></description><link>写作\日记\october-11th,-2024.html</link><guid isPermaLink="false">写作/日记/October 11th, 2024.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Fri, 11 Oct 2024 09:34:38 GMT</pubDate></item><item><title><![CDATA[个人原则]]></title><description><![CDATA[ 
- <br>这是一篇需要长期更新的文章。<br>原则是个性化的，也是必不可少的。<br>
-<br>不借超过1万元钱给任何人，无论多亲，无论理由有多么难以拒绝，无论多么不好意思。如果遇到实在救急需要借钱的人，送1万，但不借。
-<br>任何冲动消费，在想买的那瞬间停住，第二天再买。任何限时的促销手段，不理睬。
-<br>事事有交代 句句有回应 件件有着落。
-<br>有想法 只要去做，有理想 只要去追，想尽办法、坚持不懈，无论结果怎样都值得尊敬。我们的一生 不追求结果是名利双收的成功，但求成为上下求索的西西弗斯。
-I respect myself, the moment I start, to the moment that I keep going, and going, until finally I decide to finish.
+明天堂妹的婚礼与王启成的订婚仪式冲突, 并且都在调休的周六工作日.]]></description><link>https://note-gamma-eight.vercel.app/写作/日记/october-11th,-2024.html</link><guid isPermaLink="false">写作/日记/October 11th, 2024.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Fri, 11 Oct 2024 09:34:38 GMT</pubDate></item><item><title><![CDATA[安心]]></title><description><![CDATA[ 
+ <br>有一个能接受你任何缺点的人, 使人感到安心. <br>内心充满平静的力量.]]></description><link>https://note-gamma-eight.vercel.app/写作/安心.html</link><guid isPermaLink="false">写作/安心.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:31 GMT</pubDate></item><item><title><![CDATA[榜样]]></title><description><![CDATA[ 
+ <br>一个国家的元首是怎么样的人，会极大的鼓舞和影响其人民。
+一家公司的老板，同理。
+一家之主，同理。
+一个生态系统的顶端生物，同理。<br>我对国家领导人的言行有所期待，那么同理，同事们对我的行为举止也有所期待。我们都希望组织的领导者开明、能干、有担当，能带领大家走向更好的生活，帮助大家成为更好的人。<br>身居高位，优秀是领导者的责任。
+家财万贯，优秀是富有者的责任。
+一家之主，优秀是年长者的责任。
+万物之首，优秀是人类的责任。<br>我们要向这个世界展现更好的自我，这是生而为人的责任。]]></description><link>https://note-gamma-eight.vercel.app/写作/榜样.html</link><guid isPermaLink="false">写作/榜样.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:12 GMT</pubDate></item><item><title><![CDATA[比较]]></title><description><![CDATA[ 
+ <br>我们的幸福、快乐、成就感、满足感，究竟有多少源于纯粹的体验本身，又有多少来自与他人的比较？<br>在现代社会中，我们习惯性地进行各种比较：社会地位、职业发展、物质财富，甚至生活的方方面面。然而，这种基于比较而产生的快乐是脆弱的，本质上是一场零和博弈。
+当你处于优势地位时，必然有人处于劣势；即使整个社会在进步，始终会有人位于比较的上层，而更多人则处于下层。比如，我们今天的物质条件远胜于古代的部落酋长，但若陷入地位比较的思维，现代人未必能感受到更多的快乐。<br>获得幸福的途径可以归纳为两种：<br>
 <br>
-]]></description><link>写作\个人原则.html</link><guid isPermaLink="false">写作/个人原则.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:01 GMT</pubDate></item><item><title><![CDATA[个人投资方法]]></title><description><![CDATA[ 
+通过比较获得优势：这是一条艰难的道路，也折射出社会的残酷现实。这种建立在他人劣势之上的快乐，往往会对他人造成伤害，而且地位越高，影响范围就越大，造成的负面影响也越深远。
+
+<br>
+享受当下的纯粹体验：这是每个人都能实现的方式。关键在于摆脱比较的思维定式，专注于当下的感受。然而，一旦陷入与他人的比较，这种源于内心的简单幸福就会瞬间消散。
+
+<br>每个人在童年时期，都曾体验过最纯粹的快乐：一个泡泡、一片树叶、一颗糖果都能带来无与伦比的喜悦。这种快乐不需要与任何人比较，纯粹源于内心的满足。然而，随着年龄增长，我们的快乐阈值不断提高，那些简单的快乐逐渐被我们遗忘在记忆的角落。<br>马斯洛需求层次理论隐含着一个有趣的现象：越是基础的需求（如饥饱、安全），越是不依赖社会比较；而越是高层次的需求（如尊重、自我实现），越容易陷入与他人的对比。这或许也解释了为什么现代社会中，物质生活的改善并未必然带来幸福感的提升。<br>事实上，真正持久的幸福感往往来自于回归本真，重拾那种不需要比较的纯粹快乐。这需要我们有意识地远离比较的思维陷阱，学会欣赏生活本身的美好。<br>下面是一些简单易行的方法论：<br>
+<br>
+培养正念意识
+
+<br>每天花些时间进行冥想或深呼吸练习
+<br>专注当下的感受，而不是未来的期待或过去的遗憾
+<br>觉察自己的比较思维，但不加评判
+
+
+<br>
+建立个人成长记录
+
+<br>与过去的自己比较，而不是他人
+<br>记录每天的小进步和感恩事项
+<br>设定个人目标，关注自我提升
+
+
+<br>
+重拾简单的快乐
+
+<br>培养兴趣爱好，享受创作和学习的过程
+<br>亲近自然，感受四季变化
+<br>珍惜与亲朋好友相处的温暖时光
+
+
+<br>
+调整社交媒体使用
+
+<br>减少刷屏时间，避免过度关注他人生活
+<br>适当清理引发攀比心理的内容
+<br>将社交媒体作为联系和学习的工具，而非比较的平台
+
+
+<br>
+建立价值观锚点
+
+<br>思考什么对自己真正重要
+<br>定义个人的成功标准
+<br>不盲从社会的评价体系
+
+
+]]></description><link>https://note-gamma-eight.vercel.app/写作/比较.html</link><guid isPermaLink="false">写作/比较.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:21 GMT</pubDate></item><item><title><![CDATA[表演]]></title><description><![CDATA[ 
+ <br>有人说人活着就是在演戏，人生是一场场的角色扮演。<br>表演 不完全等于装逼。更多的时候，这是社会盼望你完成的任务。<br>孩童表现的是真实的自我。长大后，我们开始扮演更多我们并不一定发自内心想扮演的角色：学生、员工、领导、家长……甚至子女这个我们与生俱来的角色，在更深刻地理解了它的含义后，我们也需要重新学会扮演。<br>人无时无刻不需要演戏。演好了，别人就信了；演久了，自己也信了。面具戴久了，便与面孔融为一体，摘下面具时，别人认不得你，自己也认不得自己。<br>人类把自然而然的行为归纳总结，将其标签化，刻板印象化。于是社会集体默认，特定的角色应当有特定的行为。人们也自动将自己归属于一类类的标签，套用行为模板。]]></description><link>https://note-gamma-eight.vercel.app/写作/表演.html</link><guid isPermaLink="false">写作/表演.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:45 GMT</pubDate></item><item><title><![CDATA[差不多先生]]></title><description><![CDATA[ 
+ <br>我是差不多先生。早饭吃什么无所谓，旅游去哪里无所谓，喜欢哪件衣服无所谓。
+我是个随遇而安的人。不擅长做计划，做了计划也坚持不了几天。<br>但有些人恰恰相反，他们对很多"无所谓的小事"有强烈的个人观点。有时候这样的人显得很难弄，这也不行那也不行；有时候就显得很有生活情趣，活出了浓郁鲜活的个人色彩。<br>无所谓久了，我想要改变。]]></description><link>https://note-gamma-eight.vercel.app/写作/差不多先生.html</link><guid isPermaLink="false">写作/差不多先生.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:38 GMT</pubDate></item><item><title><![CDATA[成功]]></title><description><![CDATA[ 
+ <br>我的人生, 我的成功, 由我自己定义. <br>成功=(事业+健康+家庭+朋友)×心态
+即 有钱 有身体 有良好社会关系<br>我的成功与否 有多少是基于自我的认可, 又有多少是基于社会的认可?
+恐怕99%是基于 他人的观点: 别人如何评价我.
+所以我们如此在意 别人的看法, 一辈子为别人而活, 无法逃离社会评价体系, 哪怕是自己不认可的那部分. ]]></description><link>https://note-gamma-eight.vercel.app/写作/成功.html</link><guid isPermaLink="false">写作/成功.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:47 GMT</pubDate></item><item><title><![CDATA[成功概率]]></title><description><![CDATA[ 
+ <br>有的人只守着自己的老行当，对新行业、投资持反对态度。说得好听这叫匠人精神，说得不好听这就是因循守旧。我反对这种风格的理由是：保守的成功者忘记了当年初入职场的感受，他也是懵懵懂懂进入一个全新的行业，为什么现在就害怕新的尝试呢？我认为，我们缺乏冒险家精神的教育，而推崇循规蹈矩和按部就班。<br>现在我领悟到 成功本身 就是一个小概率事件，一个人可以绝顶聪明、孜孜不倦，但他是否成功还是非常依赖运气。这里的“运气”并非消极贬义的，指思维与行为方式方法是否与当前社会环境、市场需求、行业状况相契合，加之一些说不清道不明的因素，即天时地利人和。善于思考又勤奋的人 成功概率大一些，但任何人的成功终究都是小概率事件。换句话说 成功的人也并非一定是最刻苦、最聪明的，在极限条件下，他可能是极度懒惰与愚蠢，但却是运气最好的。<br>人生之不成功 十之八九。成功者 往往不同意自己的成功有运气成分，他们坚定地相信一切结果都是由于自己的智慧的大脑和勤劳的双手，而忽视历史的随机性，忽视了无数比他更聪明且更努力的人 一生默默无闻。成功者常勉励他人：“如果你像我一样去工作、去思考，你也一定能成功。”却忽视世界上显然存在的、并非个人能掌控的、无数的随机因素。<br>不过，对于大多数人来说，思考与努力正是他们缺乏的通向成功的基础因素。对于大多数人，难点在于在极度缺乏正向反馈的人生中不懈地碰运气，即便大多数时候等来的只是霉运。这恰恰需要一种“思考+努力=成功”的心灵鸡汤来帮助他们熬过99%的失意时光，直至遇到属于自己的1%的运气。<br>追求成功 是专属于笨人的快乐。路旁明明都是唾手可得写快速享乐的诱惑，笨人却要强行让自己碰一鼻子灰，只为了若即若离、亦幻亦真、似有似无的前方所谓的“成功”，这样的执着的追求是可敬的。聪明人，早已看透成功道阻且长，不如及时行乐；笨人 还在努力地寻找，给自己画饼，喝心灵鸡汤。<br>如果有幸成功，最好的选择是将现在的事业发扬光大，而非抱着“有志者事竟成”的想法去勇闯未知领域。这并不意味着拒绝探索和发现，脚踏实地与仰望星空并不矛盾。对于新行业的尝试，应该报以积极的风险投资的态度，广撒网、敏捷开发，利用现有资源优势增加试验次数、减少试错成本。当风险投资带来超额回报后，再逐渐加大投资，不可贪图快速。]]></description><link>https://note-gamma-eight.vercel.app/写作/成功概率.html</link><guid isPermaLink="false">写作/成功概率.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:11:04 GMT</pubDate></item><item><title><![CDATA[成熟]]></title><description><![CDATA[ 
+ <br>成熟的具体指标是什么？]]></description><link>https://note-gamma-eight.vercel.app/写作/成熟.html</link><guid isPermaLink="false">写作/成熟.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:52 GMT</pubDate></item><item><title><![CDATA[聪明]]></title><description><![CDATA[ 
+ <br>小时候 我一直被夸赞是个聪明的孩子. 不努力, 成绩依然优秀.
+初中时, 贪玩的我已经无法用聪明赶上大家的步伐, 我变成了成绩不好的人.
+高中时, 我自认资治平庸, 在班级名列后茅, 于是在高三认真做题, 高考发挥理想.
+大学时, 我又成了不努力, 成绩依然优秀的人.
+工作后, 我还是不太努力, 我依然想通过懒方法证明自己的聪明, 不屑于用笨方法.<br>人贵有自知之明. 以一个笨人的心态做事, 比较容易脚踏实地. <br>世界上真正聪明的人并不多, 大多数只是自以为聪明和装作聪明的人.
+概率上来说 认为自己聪明 一般是个愚蠢的想法; 而认为自己愚钝 很可能是个聪明的想法.
+而你 我的朋友, 有多大概率 恰好是个聪明的人呢?]]></description><link>https://note-gamma-eight.vercel.app/写作/聪明.html</link><guid isPermaLink="false">写作/聪明.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:32 GMT</pubDate></item><item><title><![CDATA[错的意义]]></title><description><![CDATA[ 
+ <br>成功的人，经历了重重考验，犯下无数错误，总结出经验。
+光阴荏苒，成功者牢记了默念千万遍的宝贵经验，却常常忘记来时的路，乃至藐视错误的意义。<br>正可谓：通关文牒不可少，取经歧路更紧要。斗战胜佛断然好，大闹天宫无人笑。<br>重要的不是击败boss的方法、技巧和窍门，而是一遍遍的失败与重来、螺旋上升的过程。<br>假如在即将关闭人生游戏的时候，我可以写几句留言。
+我不想对刚打开游戏的新玩家说：学什么技能、穿什么装备、不同的boss有什么杀招、要在什么时刻按什么键……
+我不想对仍在上下求索的玩家说：这里有条最佳秘密路线、那里有更好的打法、这个想法我试过了是不可能的、那个谜题我来揭示背后真正的含义……
+我想说：我来过，我跌倒过，每一次我都重新站起来，直到我失去所有力气。每一个勇敢的人生玩家，你也可以。<br>请允许新上路的旅人，走进同样的死胡同，踩入同样的泥坑，同样摔个狗吃屎并同样地灰头土脸地爬起来。<br>走自己的路、勇敢犯错、善于总结、乐观面对。]]></description><link>https://note-gamma-eight.vercel.app/写作/错的意义.html</link><guid isPermaLink="false">写作/错的意义.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:59 GMT</pubDate></item><item><title><![CDATA[大隐隐于市]]></title><description><![CDATA[ 
+ <br>即使看破, 还能够隐居于尘世之中. <br>看透游戏规则, 是聪明的;
+看透游戏规则, 选择不玩, 是有想法的;
+看透游戏规则, 积极投入, 是勇敢的;
+看透游戏规则, 玩得最好, 是智慧的.<br>看透游戏规则，但既没有决心了断，又消极对待，比没看透的人还蠢上加蠢。]]></description><link>https://note-gamma-eight.vercel.app/写作/大隐隐于市.html</link><guid isPermaLink="false">写作/大隐隐于市.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:28 GMT</pubDate></item><item><title><![CDATA[德配位]]></title><description><![CDATA[ 
+ <br>高位降临，如何提升德以配位？<br>草根出身 白手起家的人，一般收入与能力自洽。]]></description><link>https://note-gamma-eight.vercel.app/写作/德配位.html</link><guid isPermaLink="false">写作/德配位.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:40 GMT</pubDate></item><item><title><![CDATA[二过]]></title><description><![CDATA[ 
+ <br>昨晚玩Balatro游戏到3点多, 导致第二天晚起.
+起因是换了新手机, 在折腾手机的同时想到玩个游戏. 在购买游戏前, 就纠结了几天, 明知这又会浪费我的时间. <br>经常间隔半年左右, 有游戏瘾, 持续几天, 很快会食之无味.
+人为什么会陷入这样的轮回 重复犯错?<br>玩 是错误吗? 快乐 是错误吗?
+重复陷入自己想要的快乐漩涡, 可能不是错误. 人并非为痛苦而活, 人只是追逐快乐的猴子. 但短暂快乐带来的后果又是我不想要的. 这是个矛盾. ]]></description><link>https://note-gamma-eight.vercel.app/写作/二过.html</link><guid isPermaLink="false">写作/二过.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:06 GMT</pubDate></item><item><title><![CDATA[风采]]></title><description><![CDATA[ 
+ <br>记住，做事畏首畏尾、瞻前顾后、爱惜羽毛、想赢怕输的人们，你的人生是一场实验，勇敢的去展现自己的风采。]]></description><link>https://note-gamma-eight.vercel.app/写作/风采.html</link><guid isPermaLink="false">写作/风采.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:11 GMT</pubDate></item><item><title><![CDATA[风险]]></title><description><![CDATA[ 
+ <br>人生有风险. <br>人可以和理财时做的合格投资者评估一样, 分为稳定收益型、风险投资型等等.
+人生可以选择安稳, 也可以选择大风大浪. <br>选择本本分分工作 一辈子求个安稳, 或 背上高利贷去赌场一把梭哈 不是飞黄腾达就是天台跳楼, 都没有对错.
+持不同观点的人抨击对方:怂逼、赌徒, 随便他人怎么说, 这都是观点罢了. <br>务实者说 人生成败取决于 临终结算有多少成就;
+冒险家说 人生成败取决于 曾经到达过的最高峰. <br>人生路怎么走, 怎么选, 只有你一个人说了算. <br>作为普通人, 不宜追求太高的风险或收益, 毕竟命是自己的, 大多数的人生很难翻盘.
+作为普通人, 你只不过是70亿分之一而已, 怕什么? 你的命在历史长河中微不足道. <br>人生是一场游戏. <br><br>过马路闯红灯是一种博弈, 在马路边违规停车是一种博弈. ]]></description><link>https://note-gamma-eight.vercel.app/写作/风险.html</link><guid isPermaLink="false">写作/风险.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:09:32 GMT</pubDate></item><item><title><![CDATA[个人投资方法]]></title><description><![CDATA[ 
  <br>个人方法论, 没有屁话. <br>一生投出约10%的资产, 分20次投资, 分布于30-60岁间, 可算出平均投资额.
 每次投出当时总资产的0.5%, 即金额随资产总额浮动.
 我可以接受10%的资产全部投资失败, 这不至于影响我的生活水平. <br>整体而言 我是稳健型, 但对于决定投资的部分, 我是进取型. <br>
@@ -72,257 +159,51 @@ I respect myself, the moment I start, to the moment that I keep going, and going
 <br>财务
 
 
-]]></description><link>写作\个人投资方法.html</link><guid isPermaLink="false">写作/个人投资方法.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:03 GMT</pubDate></item><item><title><![CDATA[主见]]></title><description><![CDATA[ 
- <br>旅游时，我很愿意听别人的想法，别人想去哪里就去哪里，想吃什么就吃什么，想玩什么就玩什么。<br>流行的说法是：旅游是检验一个人是否适合结婚的快捷方法。因为旅游时，容易集中爆发矛盾。
-我一度以为这是我脾气好的表现，但最近感悟，这是因为我对于旅游没有太多自己的想法，没有主见。<br>当妈妈想要为新房子购买一个新的扫拖一体机器人时，我表达了反对，理由如下：
-前几年买的扫地机器人，没用几次就不用了；新的房子面积更小，买一个扫拖一体的，但不必要买机器人，人工打扫就很方便了。
-另外，邻居推荐购买方形的机器人，理由是可以清洁到角落。我认为各大厂商的主力机型都是圆形，这是有原因的，一定比一个邻居的推荐更有道理。<br>我妈说：你很拗（固执）。
-我突然反应过来：在这件事上，我有自己的看法，有主见。所以我不会无条件顺从他人的想法。]]></description><link>写作\主见.html</link><guid isPermaLink="false">写作/主见.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:04 GMT</pubDate></item><item><title><![CDATA[二过]]></title><description><![CDATA[ 
- <br>昨晚玩Balatro游戏到3点多, 导致第二天晚起.
-起因是换了新手机, 在折腾手机的同时想到玩个游戏. 在购买游戏前, 就纠结了几天, 明知这又会浪费我的时间. <br>经常间隔半年左右, 有游戏瘾, 持续几天, 很快会食之无味.
-人为什么会陷入这样的轮回 重复犯错?<br>玩 是错误吗? 快乐 是错误吗?
-重复陷入自己想要的快乐漩涡, 可能不是错误. 人并非为痛苦而活, 人只是追逐快乐的猴子. 但短暂快乐带来的后果又是我不想要的. 这是个矛盾. ]]></description><link>写作\二过.html</link><guid isPermaLink="false">写作/二过.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:06 GMT</pubDate></item><item><title><![CDATA[亲密关系]]></title><description><![CDATA[ 
- <br>无论多亲密的关系，要保持适当距离。<br>古人总结：相敬如宾。<br>有些话，有距离的时候可以谈，没距离的时候反而不方便谈。]]></description><link>写作\亲密关系.html</link><guid isPermaLink="false">写作/亲密关系.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:07 GMT</pubDate></item><item><title><![CDATA[信仰]]></title><description><![CDATA[ 
- <br>只有行为与自身利益完全相背，我才相信是真正地信仰。<br>绝大多数人并不是真正地相信任何事理，只是根据自己的利益选择而已。 <br>上帝的信仰者只不过是为了上天堂；
-佛祖的信仰者只不过是为了平安健康；
-资本主义的信仰者只不过是为了保住私有财产。<br>我们说这句话是为了自己，走那条路是为了自己，交这个朋友是为了自己，做那件事是为了自己。
-我们并没有那么高尚，这样也没有什么错。<br>但所幸这世上还有那么些人是为了真理而活。<br>身为资本家的后代，却放弃全部家产，投入共产主义事业的人是值得尊敬的；
-身为统治阶级的后代，却与原阶级唱反调，倡导自由民主的人是值得尊敬的；
-为了正义事业放弃一切、献出生命的人是值得尊敬的；
-为了邪恶事业放弃一切、献出生命的人是值得尊敬的。<br>可能你说他愚昧无知，可能你说他走火入魔。但不论信仰的优劣，真正地拥有超越个人利益的信仰，是难能可贵的。]]></description><link>写作\信仰.html</link><guid isPermaLink="false">写作/信仰.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:08 GMT</pubDate></item><item><title><![CDATA[偏执狂]]></title><description><![CDATA[ 
- <br>我需要妄想症，我需要知道我能做好任何事，尤其是我想做的事情。只要别影响他人的生活，说话、做事都不需要太客观。指鹿为马，当你连自己都能骗过的时候，这就对了。
-相信自己所信的，不停地失败、失败、失败……继续。You just stick around.
-狭隘没什么不好的，每个人都狭隘，都只信自己所信。为什么不让自己信得更死心塌地，至死不渝
-你必须要有自己的思考、判断、观点、立场，不然你就只是平庸的蝗虫。偏激偏执远比中庸之道有意义得多。想活出自己，就避免事事妥协。把自己做出极致，这才让我羡慕。]]></description><link>写作\偏执狂.html</link><guid isPermaLink="false">写作/偏执狂.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:09 GMT</pubDate></item><item><title><![CDATA[具体的人]]></title><description><![CDATA[ 
- <br>字节跳动前老板张一鸣曾在采访中提到：人与人之间的沟通比移动互联网普及前多得多。他反对“低头族”这样的负面称呼，认为尽管面对面的交流减少了，但人与信息的沟通大大增加。<br>我同意他的观点。然而，这种沟通与真实接触的沟通是不同的。<br>通过互联网了解事件似乎无可厚非，但大多数事件与人密不可分。互联网给人一种错觉：我了解这个人了，我可以发表观点。互联网为人们提供了一副面具，使他们可以肆无忌惮地发言。<br>如果在现实中遇到同样的人，我们的反应往往与在互联网上不同。在网络上批评的对象，在现实中可能会被恭维；在网络上指责的对象，在现实中可能会被敬仰；在网络上为他人出谋划策，在现实中自己却犹豫不决。这就像坐下来吃饭：围在一张饭桌旁，我们会更有耐心地倾听他人，更真诚地去理解，并为他人和自己保留情面。<br>陀思妥耶夫斯基说：去爱具体的人。
-人们可以对大爱夸夸其谈，但对身边的人却尖酸刻薄。<br>互联网让我们接触到原本没有机会接触的人和事。<br>这并不是一个新现象。在说书人口中、在报纸杂志上、在电视荧幕上，这种现象早已存在，只是规模没有如此庞大，影响没有如此深远。]]></description><link>写作\具体的人.html</link><guid isPermaLink="false">写作/具体的人.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:12 GMT</pubDate></item><item><title><![CDATA[写作]]></title><description><![CDATA[ 
- <br>写作=思考<br>写作是一种表达和促进思想的强大工具。<br>没有思维的输出，就没有思想的沉淀。<br>写作方法论：<br>
+]]></description><link>https://note-gamma-eight.vercel.app/写作/个人投资方法.html</link><guid isPermaLink="false">写作/个人投资方法.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:03 GMT</pubDate></item><item><title><![CDATA[个人原则]]></title><description><![CDATA[ 
+ <br>这是一篇需要长期更新的文章。<br>原则是个性化的，也是必不可少的。<br>
+<br>不借超过1万元钱给任何人，无论多亲，无论理由有多么难以拒绝，无论多么不好意思。如果遇到实在救急需要借钱的人，送1万，但不借。
+<br>任何冲动消费，在想买的那瞬间停住，第二天再买。任何限时的促销手段，不理睬。
+<br>事事有交代 句句有回应 件件有着落。
+<br>有想法 只要去做，有理想 只要去追，想尽办法、坚持不懈，无论结果怎样都值得尊敬。我们的一生 不追求结果是名利双收的成功，但求成为上下求索的西西弗斯。
+I respect myself, the moment I start, to the moment that I keep going, and going, until finally I decide to finish.
 <br>
-明确目标：在开始写作之前，明确你想要传达的核心思想和目标。了解你的受众是谁，以及你希望他们从中获得什么。
-
-<br>
-结构化思维：写作需要有清晰的结构。
-
-<br>
-头脑风暴：在动笔之前，借助AI, 进行头脑风暴，记录所有相关的想法和观点。筛选出最有价值的内容展开。
-
-<br>
-持续练习：每天坚持写作，即使一两句话。或者回顾改写过去的文字。
-
-<br>
-多读多写：广泛阅读优秀的作品，学习不同的写作风格和技巧。刻意模仿和实践，找到适合自己的写作风格。
-
-<br>
-反馈与修改：写作完成后，敢于主动寻求他人的反馈。勇于发布到网络平台，根据反馈进行修改和完善，提升文章的质量。
-
-]]></description><link>写作\写作.html</link><guid isPermaLink="false">写作/写作.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:14 GMT</pubDate></item><item><title><![CDATA[击垮]]></title><description><![CDATA[ 
- <br>Nvidia founder Jensen Huang: "I wish upon you ample doses of pain and suffering."<br>In 1888, Nietzsche wrote “Aus der Kriegsschule des Lebens.&nbsp;—Was mich nicht umbringt, macht mich stärker,”&nbsp;which can be translated as “Out of life's school of war—what doesn't kill me, makes me stronger.”]]></description><link>写作\击垮.html</link><guid isPermaLink="false">写作/击垮.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:16 GMT</pubDate></item><item><title><![CDATA[功德箱管理员]]></title><description><![CDATA[ 
- <br>得道高僧: 阿弥陀佛. <br>众人: 佛祖保佑 平安健康, 学业有成, 工作顺利. <br>功德箱管理员: 我们收取香火钱 在寺院售卖文创产品 是为了更好地建设寺院, 更好地弘扬佛法, 更好地普渡众生. <br>名人: 请大师帮我看看运势, 如何消灾解难, 如何飞黄腾达? <br>异教徒: 不信我主的人都是邪恶的. 杀光他们, 救赎全人类. <br>热血青年: 现代的和尚沦为一种职业, 还不是为了赚钱. <br>无神论者: 任何宗教都是愚昧的, 我只相信科学. <br>寺院主理人: 我正与市长吃饭, 共同商议 大力开发本市佛教文化旅游产业. <br>哲学家:  我理解佛学的思想, 但我不信仰任何宗教. 相信轮回转世也是一种理解世界的思维方式, 与相信"1+1=2"并无区别. <br>黑帮老大: 我每日多行善事, 求佛祖宽恕我的罪孽. <br>小朋友: 阿弥陀佛. ]]></description><link>写作\功德箱管理员.html</link><guid isPermaLink="false">写作/功德箱管理员.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:33:33 GMT</pubDate></item><item><title><![CDATA[匠人]]></title><description><![CDATA[ 
- <br>匠人精神 vs 重复劳动]]></description><link>写作\匠人.html</link><guid isPermaLink="false">写作/匠人.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Mon, 25 Nov 2024 04:41:22 GMT</pubDate></item><item><title><![CDATA[十年树木]]></title><description><![CDATA[ 
- <br>误以为参天大树从来都是如此巨大，忽略了事物都是从无到有发展起来的客观事实。<br><br>小树抬头仰望参天巨木：“你那么高大，枝繁叶茂，十人不可环抱。我如何能长到那么大？”<br>巨木：“必然是有稳固的根基与宽广的视野。你要努力扎根，汲取更多营养；展开绿叶，吸收更多阳光。”<br>小树：“我尝试了。泥土里的盘根错节比我的树干还要粗得多，已经没有太多容得下我的土壤。”<br>巨木：“曾经我的根、我的叶 都同你一样。”<br>小树：“几百年前，这里尚且不是森林。”<br>巨木：“那时这里不过乱石与沙土。一眨眼已如此繁华，绿意盎然，勃勃生机。”<br>小树：“曾经土地中根须不那么多，任你遨游；天空中的叶子也不那么密，抬头皆是蓝天。如今的我该怎么办？“<br>巨木：”我的树冠为你遮风挡雨，我的落叶为你提供腐殖质。“<br>小树：”但我恐怕难以在这片茂密森林中成长为举足轻重的大树，鸟儿不会在我的枝头筑巢。我的根太软弱，太短小，无法触及土地的深处；我的叶太小巧，太低矮，阳光都被遮挡，还要遭受更多的虫咬。“<br>巨木：”那时，我是一颗小小的种子，鸟儿从远处将我带到这片空旷贫瘠的大地。我并不比你强壮，也不比你高大。“<br>小树：”它们都说几百年来你从来都是这样高大。原来你也有渺小的时候，不是生来高耸入云。“<br>巨木：”小树自有其优势，小巧柔韧又不招风，生长速度惊人。狂风暴雨中我弯倒又竖起；连月无雨时我搜寻皲裂的土地中残存的水分与肥料。“<br>小树：”骤雨来袭，我只感到豆大的雨珠，狂风都已被你挡住；更不用说大地会裂开，我无法想象。“<br>巨木：”渐渐地，我的树干和年轮一同变粗，鸟儿在我肩膀筑巢。最重要的是你能够茁壮成长。鸟儿会因凌冬将至而离去，来年也自会口衔枯枝飞来。“<br>阳光穿过巨木叶片的缝隙，斑驳的剪影闪烁在小树上。]]></description><link>写作\十年树木.html</link><guid isPermaLink="false">写作/十年树木.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:11:15 GMT</pubDate></item><item><title><![CDATA[善恶]]></title><description><![CDATA[ 
- <br>做一个好人、善良的人, 首先要理解什么是善良，什么是邪恶？<br>善恶的判断并非绝对，而是相对的。且与利益紧密相关。<br>
-<br>
-任何行为，一定有受益者，受害者。
-最善良的行为, 也有间接的受害者; 最邪恶的行为, 也有受益者。
-
-<br>
-对一方的善良, 对另一方可能是邪恶。
-
-<br>
-对大多数人的善良, 并不一定就是对的.
-
-<br>
-在不同的道德伦理观下, 善恶的判断标准不同。
-曾经的善可能变成现在的恶, 曾经的恶可能变成现在的善。
-
-<br>善恶的界限并不总是清晰可见，有时甚至模糊不清。<br>道德困境<br>例如，在战争时期，一个士兵可能面临这样的道德困境：他必须决定是否要攻击敌方的一个村庄。攻击可能会导致无辜平民的伤亡，但如果不攻击，敌方可能会利用这个村庄作为基地，发动更多的攻击，造成更多的伤亡。在这种情况下，士兵需要在两难的选择中做出决定。]]></description><link>写作\善恶.html</link><guid isPermaLink="false">写作/善恶.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:23 GMT</pubDate></item><item><title><![CDATA[大隐隐于市]]></title><description><![CDATA[ 
- <br>即使看破, 还能够隐居于尘世之中. <br>看透游戏规则, 是聪明的;
-看透游戏规则, 选择不玩, 是有想法的;
-看透游戏规则, 积极投入, 是勇敢的;
-看透游戏规则, 玩得最好, 是智慧的.<br>看透游戏规则，但既没有决心了断，又消极对待，比没看透的人还蠢上加蠢。]]></description><link>写作\大隐隐于市.html</link><guid isPermaLink="false">写作/大隐隐于市.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:28 GMT</pubDate></item><item><title><![CDATA[婚姻]]></title><description><![CDATA[ 
+]]></description><link>https://note-gamma-eight.vercel.app/写作/个人原则.html</link><guid isPermaLink="false">写作/个人原则.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:01 GMT</pubDate></item><item><title><![CDATA[功德箱管理员]]></title><description><![CDATA[ 
+ <br>得道高僧: 阿弥陀佛. <br>众人: 佛祖保佑 平安健康, 学业有成, 工作顺利. <br>功德箱管理员: 我们收取香火钱 在寺院售卖文创产品 是为了更好地建设寺院, 更好地弘扬佛法, 更好地普渡众生. <br>名人: 请大师帮我看看运势, 如何消灾解难, 如何飞黄腾达? <br>异教徒: 不信我主的人都是邪恶的. 杀光他们, 救赎全人类. <br>热血青年: 现代的和尚沦为一种职业, 还不是为了赚钱. <br>无神论者: 任何宗教都是愚昧的, 我只相信科学. <br>寺院主理人: 我正与市长吃饭, 共同商议 大力开发本市佛教文化旅游产业. <br>哲学家:  我理解佛学的思想, 但我不信仰任何宗教. 相信轮回转世也是一种理解世界的思维方式, 与相信"1+1=2"并无区别. <br>黑帮老大: 我每日多行善事, 求佛祖宽恕我的罪孽. <br>小朋友: 阿弥陀佛. ]]></description><link>https://note-gamma-eight.vercel.app/写作/功德箱管理员.html</link><guid isPermaLink="false">写作/功德箱管理员.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:33:33 GMT</pubDate></item><item><title><![CDATA[沟通]]></title><description><![CDATA[ 
+ <br>沟通效率=信息传递量/沟通成本<br>
+<br>精简信息
+<br>选择更大压缩率的信息载体
+<br>选择更低成本的沟通方式
+<br>人情味是效率的阻碍, 但又不可没有. ]]></description><link>https://note-gamma-eight.vercel.app/写作/沟通.html</link><guid isPermaLink="false">写作/沟通.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:24 GMT</pubDate></item><item><title><![CDATA[观点]]></title><description><![CDATA[ 
+ <br>事实 立场 观点 方法]]></description><link>https://note-gamma-eight.vercel.app/写作/观点.html</link><guid isPermaLink="false">写作/观点.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:47 GMT</pubDate></item><item><title><![CDATA[毫不费力]]></title><description><![CDATA[ 
+ <br>有句话说，只有加倍努力才能看起来毫不费力。<br>但是我发现我在工作或打网球或生活的其他方面中居然早早的就开始追求看起来毫不费力。这是一种外在表现，确实能让人直观的看到，但是其根本是由强大的内核作为支撑网球的高手不需要看起来费老大也不一定拘泥于某个标准动作，商业大佬天天呆在办公室遵守通常的朝九晚五的工作时间，但是他们都是由于有成年累月的积累，使他们有能力做到在看起来毫不费力的情况下，依然输出超越常人的能量。]]></description><link>https://note-gamma-eight.vercel.app/写作/毫不费力.html</link><guid isPermaLink="false">写作/毫不费力.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:22 GMT</pubDate></item><item><title><![CDATA[红绿灯]]></title><description><![CDATA[ 
+ <br>有的世界里没有红绿灯. <br>幼儿的世界里 没有红绿灯.
+外卖小哥的世界里 没有红绿灯.
+一些老年人的世界里 没有红绿灯.<br>唯心主义 先有认知 才能感受客观事实。
+盲人摸象 事实摆在那，但不同的认知 看到的事实不同。
+某些认知还能屏蔽、捏造、篡改现实。]]></description><link>https://note-gamma-eight.vercel.app/写作/红绿灯.html</link><guid isPermaLink="false">写作/红绿灯.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:44 GMT</pubDate></item><item><title><![CDATA[婚姻]]></title><description><![CDATA[ 
  <br>为什么要结婚? 老婆发问. <br>
 <br>喜欢的人
 <br>稳定关系
 <br>互相帮助
 <br>社会压力
-]]></description><link>写作\婚姻.html</link><guid isPermaLink="false">写作/婚姻.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:30 GMT</pubDate></item><item><title><![CDATA[安心]]></title><description><![CDATA[ 
- <br>有一个能接受你任何缺点的人, 使人感到安心. <br>内心充满平静的力量.]]></description><link>写作\安心.html</link><guid isPermaLink="false">写作/安心.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:31 GMT</pubDate></item><item><title><![CDATA[家庭]]></title><description><![CDATA[ 
+]]></description><link>https://note-gamma-eight.vercel.app/写作/婚姻.html</link><guid isPermaLink="false">写作/婚姻.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:30 GMT</pubDate></item><item><title><![CDATA[击垮]]></title><description><![CDATA[ 
+ <br>Nvidia founder Jensen Huang: "I wish upon you ample doses of pain and suffering."<br>In 1888, Nietzsche wrote “Aus der Kriegsschule des Lebens.&nbsp;—Was mich nicht umbringt, macht mich stärker,”&nbsp;which can be translated as “Out of life's school of war—what doesn't kill me, makes me stronger.”]]></description><link>https://note-gamma-eight.vercel.app/写作/击垮.html</link><guid isPermaLink="false">写作/击垮.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:16 GMT</pubDate></item><item><title><![CDATA[集体]]></title><description><![CDATA[ 
+ <br>个人需要舍弃个人利益, 照顾集体的利益到何程度?<br>个人需要照顾自己的利益, 可以放弃集体利益到何程度?]]></description><link>https://note-gamma-eight.vercel.app/写作/集体.html</link><guid isPermaLink="false">写作/集体.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:06 GMT</pubDate></item><item><title><![CDATA[计划]]></title><description><![CDATA[ 
+ <br>工作稳定后，我竟然开始讨厌假期，尤其是长假，这让我很意外。<br>假期来临前，令人憧憬，心绪飞扬，最后几个工作日度日如年；
+刚放假的那个夜晚，自由自在，无拘无束，这是最快乐的时光；
+假期开始后，逐渐觉得空虚无聊，无所事事；
+假期末尾，又感到焦虑不安，仿佛末日将至，无所适从；
+刚回到工作时，一团乱麻，工作堆积如山，需要一周加班加点。<br>平时被事情推着走，到自由的时候就真的不知道干嘛了。
+没有计划性。
+越是自由度大的时段，越需要计划。
+有了计划后，你就能被重新推着走。
+对于能动性低的人，烂计划也比没有计划好。<br>良好的习惯总是维持不过几天，滑入坏习惯后就松散又自在。人一旦接受自己的生活是漫无目的的流浪，就会看见责任绕道走。]]></description><link>https://note-gamma-eight.vercel.app/写作/计划.html</link><guid isPermaLink="false">写作/计划.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:49 GMT</pubDate></item><item><title><![CDATA[继承与遗传]]></title><description><![CDATA[ 
+ <br>人们对于继承是厌恶的, 但对于遗传就没有. <br>遗传容貌、身材、视力、嗓音、运动能力、智力，都不被厌恶，人们更多关注其本身并加以赞美；<br>但继承权力、遗产、企业，极易遭受嫉妒与痛恨，人们认为这是不公平的。<br>对比两者相同与不同]]></description><link>https://note-gamma-eight.vercel.app/写作/继承与遗传.html</link><guid isPermaLink="false">写作/继承与遗传.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:48 GMT</pubDate></item><item><title><![CDATA[家庭]]></title><description><![CDATA[ 
  <br>
 <br>无论孩子有什么目标，只要他们努力争取梦想，就值得为他们感到骄傲。
 <br>家庭是最重要的，是我们生活的意义。我们做任何事情都应想着家庭。
-]]></description><link>写作\家庭.html</link><guid isPermaLink="false">写作/家庭.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:34 GMT</pubDate></item><item><title><![CDATA[尊重对手]]></title><description><![CDATA[ 
- <br>费德勒尊重对手，无论强弱，我相信这是他从小受到的教育。谦逊让他在赛场上拥有强大而平和的内心。<br>
-2011年美网手握赛点被翻盘并不稀奇，网球比赛就是这样瞬息万变，这也不能说明费德勒的心态失稳。但在赛后发布会上的惊人言论让世界瞥见了一个不优雅的费德勒。<br>
-面对德约，他心态始终不能摆正，并不只是因为德约能夺走他的胜利。赛场上的失利谁都得经历，输不起才是真正的失败。<br>
-早在2006年，德约频繁退赛就令费德勒十分不屑，以至于世界第一先生在接受采访时公开发表轻蔑、鄙夷的言论。这在当时可以理解，因为没人知道德约患有麸质不耐症。可多年后，即使德约的实力已被证明，费德勒依然无法调整好心态，始终无法像接受被纳达尔击败一样坦然接受德约的胜利。<br>
-有时候，人不是去善待被自己伤害过的人，反而将对后者的愧疚感和对自身的羞耻心转移到后者身上，更加憎恶后者。这是一种反直觉的、微妙的心理状态，也反噬了2011年温布尔顿的草地王子。越是被瞧不起的对手击败，越是容易击碎骄傲的心。<br>
-错误帮助我们更好地认识自己。2019年温网重蹈覆辙后的他能够坦然面对结果并发自内心地称赞德约，成为一个更伟大的球员。]]></description><link>写作\尊重对手.html</link><guid isPermaLink="false">写作/尊重对手.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:11:09 GMT</pubDate></item><item><title><![CDATA[差不多先生]]></title><description><![CDATA[ 
- <br>我是差不多先生。早饭吃什么无所谓，旅游去哪里无所谓，喜欢哪件衣服无所谓。
-我是个随遇而安的人。不擅长做计划，做了计划也坚持不了几天。<br>但有些人恰恰相反，他们对很多"无所谓的小事"有强烈的个人观点。有时候这样的人显得很难弄，这也不行那也不行；有时候就显得很有生活情趣，活出了浓郁鲜活的个人色彩。<br>无所谓久了，我想要改变。]]></description><link>写作\差不多先生.html</link><guid isPermaLink="false">写作/差不多先生.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:38 GMT</pubDate></item><item><title><![CDATA[德配位]]></title><description><![CDATA[ 
- <br>高位降临，如何提升德以配位？<br>草根出身 白手起家的人，一般收入与能力自洽。]]></description><link>写作\德配位.html</link><guid isPermaLink="false">写作/德配位.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:40 GMT</pubDate></item><item><title><![CDATA[心魔]]></title><description><![CDATA[ 
- <br>最难跨过的并不是任何客观上的艰难险阻，而是心魔。<br>心魔笼罩，即使有再多的办法、面堆再微不足道的困难也难迈半步。]]></description><link>写作\心魔.html</link><guid isPermaLink="false">写作/心魔.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:42 GMT</pubDate></item><item><title><![CDATA[悟]]></title><description><![CDATA[ 
- <br>悟 只能靠自己. <br>悟性 是可以提高的. ]]></description><link>写作\悟.html</link><guid isPermaLink="false">写作/悟.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:44 GMT</pubDate></item><item><title><![CDATA[情绪]]></title><description><![CDATA[ 
- <br>情绪有哪些?
-开心、愤怒、<br>如何掌控情绪?
-情绪的本质是什么?
-情绪的本质是感官导致的激素水平与脑电波.]]></description><link>写作\情绪.html</link><guid isPermaLink="false">写作/情绪.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:46 GMT</pubDate></item><item><title><![CDATA[成功]]></title><description><![CDATA[ 
- <br>我的人生, 我的成功, 由我自己定义. <br>成功=(事业+健康+家庭+朋友)×心态
-即 有钱 有身体 有良好社会关系<br>我的成功与否 有多少是基于自我的认可, 又有多少是基于社会的认可?
-恐怕99%是基于 他人的观点: 别人如何评价我.
-所以我们如此在意 别人的看法, 一辈子为别人而活, 无法逃离社会评价体系, 哪怕是自己不认可的那部分. ]]></description><link>写作\成功.html</link><guid isPermaLink="false">写作/成功.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:47 GMT</pubDate></item><item><title><![CDATA[成功概率]]></title><description><![CDATA[ 
- <br>有的人只守着自己的老行当，对新行业、投资持反对态度。说得好听这叫匠人精神，说得不好听这就是因循守旧。我反对这种风格的理由是：保守的成功者忘记了当年初入职场的感受，他也是懵懵懂懂进入一个全新的行业，为什么现在就害怕新的尝试呢？我认为，我们缺乏冒险家精神的教育，而推崇循规蹈矩和按部就班。<br>现在我领悟到 成功本身 就是一个小概率事件，一个人可以绝顶聪明、孜孜不倦，但他是否成功还是非常依赖运气。这里的“运气”并非消极贬义的，指思维与行为方式方法是否与当前社会环境、市场需求、行业状况相契合，加之一些说不清道不明的因素，即天时地利人和。善于思考又勤奋的人 成功概率大一些，但任何人的成功终究都是小概率事件。换句话说 成功的人也并非一定是最刻苦、最聪明的，在极限条件下，他可能是极度懒惰与愚蠢，但却是运气最好的。<br>人生之不成功 十之八九。成功者 往往不同意自己的成功有运气成分，他们坚定地相信一切结果都是由于自己的智慧的大脑和勤劳的双手，而忽视历史的随机性，忽视了无数比他更聪明且更努力的人 一生默默无闻。成功者常勉励他人：“如果你像我一样去工作、去思考，你也一定能成功。”却忽视世界上显然存在的、并非个人能掌控的、无数的随机因素。<br>不过，对于大多数人来说，思考与努力正是他们缺乏的通向成功的基础因素。对于大多数人，难点在于在极度缺乏正向反馈的人生中不懈地碰运气，即便大多数时候等来的只是霉运。这恰恰需要一种“思考+努力=成功”的心灵鸡汤来帮助他们熬过99%的失意时光，直至遇到属于自己的1%的运气。<br>追求成功 是专属于笨人的快乐。路旁明明都是唾手可得写快速享乐的诱惑，笨人却要强行让自己碰一鼻子灰，只为了若即若离、亦幻亦真、似有似无的前方所谓的“成功”，这样的执着的追求是可敬的。聪明人，早已看透成功道阻且长，不如及时行乐；笨人 还在努力地寻找，给自己画饼，喝心灵鸡汤。<br>如果有幸成功，最好的选择是将现在的事业发扬光大，而非抱着“有志者事竟成”的想法去勇闯未知领域。这并不意味着拒绝探索和发现，脚踏实地与仰望星空并不矛盾。对于新行业的尝试，应该报以积极的风险投资的态度，广撒网、敏捷开发，利用现有资源优势增加试验次数、减少试错成本。当风险投资带来超额回报后，再逐渐加大投资，不可贪图快速。]]></description><link>写作\成功概率.html</link><guid isPermaLink="false">写作/成功概率.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:11:04 GMT</pubDate></item><item><title><![CDATA[成熟]]></title><description><![CDATA[ 
- <br>成熟的具体指标是什么？]]></description><link>写作\成熟.html</link><guid isPermaLink="false">写作/成熟.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:52 GMT</pubDate></item><item><title><![CDATA[我是一棵树]]></title><description><![CDATA[ 
- <br>冬天，晴天，有风。白天的风不特别冷，扳着我已稀疏的枝桠轻轻摇动，地面上我的金色叶片们在翻腾、起舞。人们在我下方走动，冬天的人类将身子裹得严严实实，行色匆匆，不再喜欢在我身边坐下。<br>我在想：我与会动的生命有什么区别？
-它们的构造与我们迥然不同，常常显得活力四射，会制造出各种声音，会周游世界，可惜生命也往往极其短暂。<br>人类在这其中尤为特别，它们将我身边的世界完全改变了，我们从此不是地平线上的最高点。大多数时候它们手段残忍，不顾我们族群的感受，对我们犯下惨绝树寰的种族灭绝罪行；最近，偶然间它们良心发现，对仅存不多的我们善加保护。]]></description><link>写作\我是一棵树.html</link><guid isPermaLink="false">写作/我是一棵树.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:54 GMT</pubDate></item><item><title><![CDATA[拒绝]]></title><description><![CDATA[ 
- <br>合作是双方达成一致的结果. <br>但有时候 我在勉强自己 迎合对方 完成我并不擅长的任务. ]]></description><link>写作\拒绝.html</link><guid isPermaLink="false">写作/拒绝.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:56 GMT</pubDate></item><item><title><![CDATA[排列组合]]></title><description><![CDATA[ 
- <br>我们都是一群排列组合的结果.
-我们的基因是排列组合, 我们的思想是排列组合. <br>我们没有真正属于自己的思想, 只是东拼西凑、一知半解, 重复别人的话, 并以为这是自己的思想.
-要学会反驳 辩证 第一性原理.
-极少数的人能够创造独一无二的思想. <br>所以大多数的我们 会被AI击垮. ]]></description><link>写作\排列组合.html</link><guid isPermaLink="false">写作/排列组合.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:58 GMT</pubDate></item><item><title><![CDATA[新语]]></title><description><![CDATA[ 
- <br>说来说去一样的话, 是令人厌烦的. 但一个人的思想又十分有限. <br>一个人的思想是不断加深强化的, 年纪越大, 思想越顽固. 看到相同的观点, 会强化; 看到相反的观点, 居然更加强化固有观点. 所以大多数人越老越没意思 老顽童是难得的. <br>我们喜欢遇到新的人, 和不同的人交谈. 因为他们的话都是新鲜的.
-但一旦与他们长久地相处, 就会感到重复, 车轱辘话, 老调重弹, 厌烦. <br>如何不断讲出新意思, 解读出新角度? 即使固有观点, 也能够自我推翻重来.]]></description><link>写作\新语.html</link><guid isPermaLink="false">写作/新语.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:59 GMT</pubDate></item><item><title><![CDATA[无限趋近于零]]></title><description><![CDATA[ 
- <br>函数 f(x) 在 x 无限接近于零时的行为. <br>我们的任何行为与思想是这个世界上的最优解的可能性, 无限趋近于零. <br>那么我们怎么可以放肆地、傲慢地认为 自己的行为和思想 是正确的呢? 正相反, 它一定是有瑕疵的、漏洞百出的, 甚至荒谬可笑的、无知又可悲的. 一定有亿万种其他的方式方法远比我们现在的好得多, 而我们仍旧去同他人争吵、辩论、说教, 我们仍旧觉得自己胜人一筹, 我们仍旧认定天空就如井口一样圆, 这一切都一定是由缘于我们的愚蠢和狭隘、自私与懦弱. <br>自信 一定是人类最大的幻觉!
-因为我们本应享尽无数种理由去自卑, 却凭借毫无任何资本的空空脑袋去自信. <br>大笑吧!
-我们一无所有.
-我们不值一提. <br>但我们依然需要自信, 而非自卑. <br>因为无论我们有多优秀, 这世界上仍有无限量的进步空间.
-因为我们可以永远相信, 这世界上没有最优解, 只有更高更快更强.
-因为自卑心一旦遇见如此广阔的天地, 它就会瞬间瞠目结舌, 它黯淡的瞳孔也会无比闪耀. ]]></description><link>写作\无限趋近于零.html</link><guid isPermaLink="false">写作/无限趋近于零.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:59 GMT</pubDate></item><item><title><![CDATA[时间旅行者]]></title><description><![CDATA[ 
- <br>我们是背负时间行囊的旅行者。<br>他们说 人类只能在三维空间中自由行动，而时间作为第四维度，我们只能被动地随时间流逝而行动。<br>然而，过去塑造了现在的我们。此刻的我，是过去每个瞬间的叠加。过去的瞬间并未消逝，它们伴随我们，成为现在的我们。此刻的我并不重要, 只要有过去每一个瞬间的我, 此刻的我只是一个必然的结果. 从这个意义上说，我们活在每一个经历过的时刻，是过去每个瞬间的集合。<br>有的瞬间很重, 体积很大, 像水;
-有的瞬间很轻, 体积很大, 像气球;
-有的瞬间很重, 但体积很小, 像铅块;
-多数的瞬间又轻又小, 像一粒粒尘埃.<br>有的瞬间很温暖;
-有的瞬间浑身尖刺;
-多数的瞬间无色无味无感.<br>我们随身携带着过去, 只是背负的时间长了, 忘记它还在身上. 忘记过去，等同于卸下过去的经历。但我们无法真正忘记，正如河流无法忘记流经的山谷。那些刻下的痕迹，永远是我们的一部分。<br>旅途中, 我们不时在行囊中翻找, 找那些有价值的记忆. <br>至于未来, 我们本就无法自控地不断迈入未来, 下一个未来, 再下一个未来. 就像站在移动的传送带上, 即使不迈步, 时间也会推着我们向前.<br>我们只是能力有限的时间旅行者, 一个个时间行囊不断加重的旅行者. 年迈时, 被背后鼓囊囊的时间压弯了腰. <br>每一步都是时间的印记，每一天都是旅程的一部分。我们在时间长河中跋涉，既是旅人，也是故事的主角。]]></description><link>写作\时间旅行者.html</link><guid isPermaLink="false">写作/时间旅行者.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:55 GMT</pubDate></item><item><title><![CDATA[朋友]]></title><description><![CDATA[ 
- <br>朋友的意义是什么？
-互相搀扶度过一段路，为原本站不住脚的的人生信条找一个依靠。<br>具体包括：<br>
-<br>情感支持：朋友提供情感上的慰藉和鼓励。
-<br>社交需求：满足人类与他人交往的基本需求。
-<br>个人成长：通过与朋友的互动，我们学习新的观点和技能。
-<br>共同经历：创造美好回忆，分享人生的重要时刻。
-<br>互助互利：在生活和工作中互相帮助和支持。
-<br>培养和维护友谊需要时间、努力和真诚。珍惜身边的朋友，主动关心他们，保持良好的沟通，这样友谊才能长久持续。<br>朋友间的相处方式
-损友 是我一直无法适应的相处方式. ]]></description><link>写作\朋友.html</link><guid isPermaLink="false">写作/朋友.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:05 GMT</pubDate></item><item><title><![CDATA[榜样]]></title><description><![CDATA[ 
- <br>一个国家的元首是怎么样的人，会极大的鼓舞和影响其人民。
-一家公司的老板，同理。
-一家之主，同理。
-一个生态系统的顶端生物，同理。<br>我对国家领导人的言行有所期待，那么同理，同事们对我的行为举止也有所期待。我们都希望组织的领导者开明、能干、有担当，能带领大家走向更好的生活，帮助大家成为更好的人。<br>身居高位，优秀是领导者的责任。
-家财万贯，优秀是富有者的责任。
-一家之主，优秀是年长者的责任。
-万物之首，优秀是人类的责任。<br>我们要向这个世界展现更好的自我，这是生而为人的责任。]]></description><link>写作\榜样.html</link><guid isPermaLink="false">写作/榜样.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:12 GMT</pubDate></item><item><title><![CDATA[正确]]></title><description><![CDATA[ 
- <br>世界上有对错吗？没有。<br>任何事情都没有对错。宇宙的诞生不是对的, 我扶老奶奶过马路不是对的, 一颗灭绝恐龙的陨石不是错的, 连环杀人犯虐杀儿童不是错的... 它们仅仅是事实, 它们发生过.<br>对错是人的观点。<br>个体有观点是可以理解的, 那么为什么一个庞大的集体要积极捍卫某一种观点, 并对另一种观点进行强烈的排斥呢?]]></description><link>写作\正确.html</link><guid isPermaLink="false">写作/正确.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:14 GMT</pubDate></item><item><title><![CDATA[比较]]></title><description><![CDATA[ 
- <br>我们的幸福、快乐、成就感、满足感，究竟有多少源于纯粹的体验本身，又有多少来自与他人的比较？<br>在现代社会中，我们习惯性地进行各种比较：社会地位、职业发展、物质财富，甚至生活的方方面面。然而，这种基于比较而产生的快乐是脆弱的，本质上是一场零和博弈。
-当你处于优势地位时，必然有人处于劣势；即使整个社会在进步，始终会有人位于比较的上层，而更多人则处于下层。比如，我们今天的物质条件远胜于古代的部落酋长，但若陷入地位比较的思维，现代人未必能感受到更多的快乐。<br>获得幸福的途径可以归纳为两种：<br>
-<br>
-通过比较获得优势：这是一条艰难的道路，也折射出社会的残酷现实。这种建立在他人劣势之上的快乐，往往会对他人造成伤害，而且地位越高，影响范围就越大，造成的负面影响也越深远。
-
-<br>
-享受当下的纯粹体验：这是每个人都能实现的方式。关键在于摆脱比较的思维定式，专注于当下的感受。然而，一旦陷入与他人的比较，这种源于内心的简单幸福就会瞬间消散。
-
-<br>每个人在童年时期，都曾体验过最纯粹的快乐：一个泡泡、一片树叶、一颗糖果都能带来无与伦比的喜悦。这种快乐不需要与任何人比较，纯粹源于内心的满足。然而，随着年龄增长，我们的快乐阈值不断提高，那些简单的快乐逐渐被我们遗忘在记忆的角落。<br>马斯洛需求层次理论隐含着一个有趣的现象：越是基础的需求（如饥饱、安全），越是不依赖社会比较；而越是高层次的需求（如尊重、自我实现），越容易陷入与他人的对比。这或许也解释了为什么现代社会中，物质生活的改善并未必然带来幸福感的提升。<br>事实上，真正持久的幸福感往往来自于回归本真，重拾那种不需要比较的纯粹快乐。这需要我们有意识地远离比较的思维陷阱，学会欣赏生活本身的美好。<br>下面是一些简单易行的方法论：<br>
-<br>
-培养正念意识
-
-<br>每天花些时间进行冥想或深呼吸练习
-<br>专注当下的感受，而不是未来的期待或过去的遗憾
-<br>觉察自己的比较思维，但不加评判
-
-
-<br>
-建立个人成长记录
-
-<br>与过去的自己比较，而不是他人
-<br>记录每天的小进步和感恩事项
-<br>设定个人目标，关注自我提升
-
-
-<br>
-重拾简单的快乐
-
-<br>培养兴趣爱好，享受创作和学习的过程
-<br>亲近自然，感受四季变化
-<br>珍惜与亲朋好友相处的温暖时光
-
-
-<br>
-调整社交媒体使用
-
-<br>减少刷屏时间，避免过度关注他人生活
-<br>适当清理引发攀比心理的内容
-<br>将社交媒体作为联系和学习的工具，而非比较的平台
-
-
-<br>
-建立价值观锚点
-
-<br>思考什么对自己真正重要
-<br>定义个人的成功标准
-<br>不盲从社会的评价体系
-
-
-]]></description><link>写作\比较.html</link><guid isPermaLink="false">写作/比较.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:21 GMT</pubDate></item><item><title><![CDATA[毫不费力]]></title><description><![CDATA[ 
- <br>有句话说，只有加倍努力才能看起来毫不费力。<br>但是我发现我在工作或打网球或生活的其他方面中居然早早的就开始追求看起来毫不费力。这是一种外在表现，确实能让人直观的看到，但是其根本是由强大的内核作为支撑网球的高手不需要看起来费老大也不一定拘泥于某个标准动作，商业大佬天天呆在办公室遵守通常的朝九晚五的工作时间，但是他们都是由于有成年累月的积累，使他们有能力做到在看起来毫不费力的情况下，依然输出超越常人的能量。]]></description><link>写作\毫不费力.html</link><guid isPermaLink="false">写作/毫不费力.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:22 GMT</pubDate></item><item><title><![CDATA[沟通]]></title><description><![CDATA[ 
- <br>沟通效率=信息传递量/沟通成本<br>
-<br>精简信息
-<br>选择更大压缩率的信息载体
-<br>选择更低成本的沟通方式
-<br>人情味是效率的阻碍, 但又不可没有. ]]></description><link>写作\沟通.html</link><guid isPermaLink="false">写作/沟通.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:24 GMT</pubDate></item><item><title><![CDATA[消费品]]></title><description><![CDATA[ 
- <br>超出实用价值的溢价赋予产品超额利润。
-每个人都会陷入不同的消费主义陷阱。有时候我们想要并不需要的产品，有时候我们想要
-什么是消费主义陷阱]]></description><link>写作\消费品.html</link><guid isPermaLink="false">写作/消费品.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:25 GMT</pubDate></item><item><title><![CDATA[状态]]></title><description><![CDATA[ 
- <br>工作积极性、注意力、当下心情、打球手感、写作灵感，这些都是状态。<br>如何维持状态？<br>业余的人依赖感觉、灵感、心情；
-专业的人则知道如何迅速进入状态，即使在状态不佳时，也能迅速提升状态，在关键时刻提升一个层次。<br>梅德韦德夫评价网坛三巨头时说：“三巨头与我们最大的区别在于，他们在状态低迷的时候依然能发挥出较高的水准。”
-柴可夫斯基说：“我每天都在没有真正灵感的情况下工作。如果我向自己的厌烦投降，毫无疑问地我将进入一段很长的闲置期。可是我的耐性和信念没有让我失望，而今天我终于感受到了那难以言喻的灵感辉光。”
-Chuck Close说：“灵感是给业余者的。我们其他人只是出现并开始工作。如果你等待云开雾散和灵光一现，你将不会完成太多工作。所有最好的想法都来自于过程；它们来自于工作本身。”<br>在低谷时，如何让自己振奋起来？
-消极情绪时，如何转变心态？
-注意力涣散时，如何重新专注？
-不想工作时，如何高质量完成任务？<br>牢记关键节点，拆解大任务，完成简单步骤。
-保持良好体力，合理补充能量。
-场下劳逸结合，场上亦然。
-保持正确的心态与思维方式。
-找到自己的仪式(ritual)。<br>专注力和体力一样, 需要合理分配, 合理补充.
-如果对每件事都100%专注, 只会加速精疲力竭.
-重复训练, 肌肉记忆, 养成习惯, 借助工具, 无需思考也能自动完成. <br>专业人士经过大量训练时，最基本的操作也比业余玩家的神经刀更强大。
-灵感就像天赋，只有在最顶尖的、能力被挖掘至极限的情况下才有意义。对于大多数人，稳定完成比惊鸿一瞥实用得多。<br>灵感迸发, 写出金句, 心情一级棒, 打出神仙球, 接到巨单... 都是可遇不可求, 更重要的是 保持在线 保质保量 情绪稳定 把每一颗球打回去. ]]></description><link>写作\状态.html</link><guid isPermaLink="false">写作/状态.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:50 GMT</pubDate></item><item><title><![CDATA[玩笑]]></title><description><![CDATA[ 
- <br>开玩笑 有什么限度?]]></description><link>写作\玩笑.html</link><guid isPermaLink="false">写作/玩笑.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:30 GMT</pubDate></item><item><title><![CDATA[生命很美好]]></title><description><![CDATA[ 
- <br>每一刻都很美好，比过去更加美好。我们只是忘了如何享受每一刻。]]></description><link>写作\生命很美好.html</link><guid isPermaLink="false">写作/生命很美好.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:32 GMT</pubDate></item><item><title><![CDATA[瘾]]></title><description><![CDATA[ 
- <br>我们都在对不同的事上瘾。有人为赚钱上瘾，有人因吸毒成瘾，有人运动健身上瘾，有人沉迷刷抖音，有人读书学习上瘾，有人色情暴力上瘾，有人痴迷于勤俭节约，有人痴迷于赌博挥霍。
-究其根本，我们都在追寻快乐。]]></description><link>写作\瘾.html</link><guid isPermaLink="false">写作/瘾.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:33 GMT</pubDate></item><item><title><![CDATA[眼镜时代]]></title><description><![CDATA[ 
- <br>手机时代到眼镜时代的增量信息在于对视野中的图像、物体，基于设备保持采集图像和实体信息。
-人很难接受随时随地都有被录音录像的可能，而眼镜侵入隐私的程度、数据采集的频率和规模不是现在手机时代能比的。
-隐私问题不是新问题，从Web时代到手机时代就不断凸显。
-相较于把权限开放给在后台不间断将数据上传云端的第三方App，硬件厂商原生AI更容易取得消费者信任。第三方App仍具备抢占视野的能力，但这种能力将因其权限的受限而被大大削弱。
-增量信息的权限将被牢牢掌控在具备信誉的硬件厂商手中。眼镜时代的战场将会从第三方App重回第一方。]]></description><link>写作\眼镜时代.html</link><guid isPermaLink="false">写作/眼镜时代.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:35 GMT</pubDate></item><item><title><![CDATA[知行合一]]></title><description><![CDATA[ 
- <br>为什么知行合一这么难?
-是什么阻止我知行合一? <br>因为道理往往是简短的一句话, 但客观现实是庞杂交织的. <br>道理说:
-但道理没说: <br>能够落实自己的信仰, 排除阻碍因素的人, 是值得敬佩的. ]]></description><link>写作\知行合一.html</link><guid isPermaLink="false">写作/知行合一.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:36 GMT</pubDate></item><item><title><![CDATA[破局]]></title><description><![CDATA[ 
- <br>如何打破先发者的既定优势, 甚至是行业壁垒? <br>大家都知道去新的领域 新的风口, 不要在没有增长的成熟产业死磕.
-但马斯克如何在火箭发射成功? 如何重新定义汽车行业?]]></description><link>写作\破局.html</link><guid isPermaLink="false">写作/破局.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:39 GMT</pubDate></item><item><title><![CDATA[童年视角]]></title><description><![CDATA[ 
- <br>一晃眼已三十，我成为了我小时候不喜欢的样子。
-今年我的目标是向小时候我会喜欢的样子靠拢。<br>首先，为什么大人总会变成这样
-金钱的高效使其他事物的吸引力骤降，曾经有趣的事情都可用金钱购买]]></description><link>写作\童年视角.html</link><guid isPermaLink="false">写作/童年视角.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:40 GMT</pubDate></item><item><title><![CDATA[精气神]]></title><description><![CDATA[ 
- <br>纪律 → 自信
-这是一种由内而外散发的能量. <br>早上还在回忆那些高中的老师。他们大多数都是很有精气神，对自己要求很高的老师。
-但上学的时候就不觉得。有时候反而讨厌他们这么严格。
-现在想想自己，完全不具备他们那样的精气神。<br>做一个会发光的人 <br>神采奕奕, 炯炯有神, 热力四射, 铿锵有力, 杀伐果断, 雷厉风行, 乐于助人, 大公无私. ]]></description><link>写作\精气神.html</link><guid isPermaLink="false">写作/精气神.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:42 GMT</pubDate></item><item><title><![CDATA[红绿灯]]></title><description><![CDATA[ 
- <br>有的世界里没有红绿灯. <br>幼儿的世界里 没有红绿灯.
-外卖小哥的世界里 没有红绿灯.
-一些老年人的世界里 没有红绿灯.<br>唯心主义 先有认知 才能感受客观事实。
-盲人摸象 事实摆在那，但不同的认知 看到的事实不同。
-某些认知还能屏蔽、捏造、篡改现实。]]></description><link>写作\红绿灯.html</link><guid isPermaLink="false">写作/红绿灯.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:44 GMT</pubDate></item><item><title><![CDATA[经验]]></title><description><![CDATA[ 
- <br>经验、道理、习俗
-世间本没有这些东西, 这都是人们为了方便自己的行为创造出来的. <br>大概率 个体总结的经验与普遍现实是有较大偏差的; 增加样本量, 延长时间跨度 有助于增加准确度. <br>在一定条件下 经验可能是实用的. 但人们会依赖它们, 在环境发生改变时 不懂得重新分析 懒得根据现实情况判断, 而是不分青红皂白地 认定过去的总结. ]]></description><link>写作\经验.html</link><guid isPermaLink="false">写作/经验.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:46 GMT</pubDate></item><item><title><![CDATA[继承与遗传]]></title><description><![CDATA[ 
- <br>人们对于继承是厌恶的, 但对于遗传就没有. <br>遗传容貌、身材、视力、嗓音、运动能力、智力，都不被厌恶，人们更多关注其本身并加以赞美；<br>但继承权力、遗产、企业，极易遭受嫉妒与痛恨，人们认为这是不公平的。<br>对比两者相同与不同]]></description><link>写作\继承与遗传.html</link><guid isPermaLink="false">写作/继承与遗传.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:48 GMT</pubDate></item><item><title><![CDATA[聪明]]></title><description><![CDATA[ 
- <br>小时候 我一直被夸赞是个聪明的孩子. 不努力, 成绩依然优秀.
-初中时, 贪玩的我已经无法用聪明赶上大家的步伐, 我变成了成绩不好的人.
-高中时, 我自认资治平庸, 在班级名列后茅, 于是在高三认真做题, 高考发挥理想.
-大学时, 我又成了不努力, 成绩依然优秀的人.
-工作后, 我还是不太努力, 我依然想通过懒方法证明自己的聪明, 不屑于用笨方法.<br>人贵有自知之明. 以一个笨人的心态做事, 比较容易脚踏实地. <br>世界上真正聪明的人并不多, 大多数只是自以为聪明和装作聪明的人.
-概率上来说 认为自己聪明 一般是个愚蠢的想法; 而认为自己愚钝 很可能是个聪明的想法.
-而你 我的朋友, 有多大概率 恰好是个聪明的人呢?]]></description><link>写作\聪明.html</link><guid isPermaLink="false">写作/聪明.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:32 GMT</pubDate></item><item><title><![CDATA[自发乐]]></title><description><![CDATA[ 
- <br>情绪的本能是一种被低估的能力. 这对于长期关系至关重要.<br>我和老婆, 从自发乐角度来看 是两种性格的人. <br>老婆乐于发现生活中小事情的可乐点]]></description><link>写作\自发乐.html</link><guid isPermaLink="false">写作/自发乐.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:34 GMT</pubDate></item><item><title><![CDATA[自我管理]]></title><description><![CDATA[ 
- <br>人生读书学习的过程是从 按照课本不断升学的被动学习，到发现和确定自己想要什么并主动寻找学习路径的主动学习过程。这就是我们常说的自学能力。自学能力不光包含了如何学，更重要的是学什么，为什么学。<br>人生还有另一门重要的课 自我管理能力。同理 是从按照长辈、老师指导的被动管理，到对自己的人生有明确的日程表规划的过程。小到今天为什么而起床，大到此生为什么事业而奋斗，其根本是坚信在此时此刻做此事的理由，有一个强大的内在驱动力。<br>后者对于内驱力的需求是更大的。]]></description><link>写作\自我管理.html</link><guid isPermaLink="false">写作/自我管理.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:36 GMT</pubDate></item><item><title><![CDATA[自洽]]></title><description><![CDATA[ 
- <br>我的思想与行为并不因我面对的人而成立或破碎。<br>我的行为与我的思想匹配，知行合一。
-精进我的思想，使其不至于在外部逻辑下不堪一击，经受得起顶峰与深渊的考验，同时保持可塑性与适应性。]]></description><link>写作\自洽.html</link><guid isPermaLink="false">写作/自洽.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:38 GMT</pubDate></item><item><title><![CDATA[节奏]]></title><description><![CDATA[ 
+]]></description><link>https://note-gamma-eight.vercel.app/写作/家庭.html</link><guid isPermaLink="false">写作/家庭.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:34 GMT</pubDate></item><item><title><![CDATA[匠人]]></title><description><![CDATA[ 
+ <br>匠人精神 vs 重复劳动]]></description><link>https://note-gamma-eight.vercel.app/写作/匠人.html</link><guid isPermaLink="false">写作/匠人.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 25 Nov 2024 04:41:22 GMT</pubDate></item><item><title><![CDATA[节奏]]></title><description><![CDATA[ 
  <br>人生的节奏因人而异。<br>你可以日理万机, 你可以佛系躺平, 你可以娱乐至死.<br>你究竟想要什么?
 逐渐找到并保持适合自己的生活节奏<br>
 <br>
@@ -343,19 +224,212 @@ Chuck Close说：“灵感是给业余者的。我们其他人只是出现并开
 <br>
 享受当下：学会享受生活中的每一个瞬间，不要总是想着未来或过去。活在当下，珍惜每一天的美好。
 
-]]></description><link>写作\节奏.html</link><guid isPermaLink="false">写作/节奏.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:39 GMT</pubDate></item><item><title><![CDATA[表演]]></title><description><![CDATA[ 
- <br>有人说人活着就是在演戏，人生是一场场的角色扮演。<br>表演 不完全等于装逼。更多的时候，这是社会盼望你完成的任务。<br>孩童表现的是真实的自我。长大后，我们开始扮演更多我们并不一定发自内心想扮演的角色：学生、员工、领导、家长……甚至子女这个我们与生俱来的角色，在更深刻地理解了它的含义后，我们也需要重新学会扮演。<br>人无时无刻不需要演戏。演好了，别人就信了；演久了，自己也信了。面具戴久了，便与面孔融为一体，摘下面具时，别人认不得你，自己也认不得自己。<br>人类把自然而然的行为归纳总结，将其标签化，刻板印象化。于是社会集体默认，特定的角色应当有特定的行为。人们也自动将自己归属于一类类的标签，套用行为模板。]]></description><link>写作\表演.html</link><guid isPermaLink="false">写作/表演.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:45 GMT</pubDate></item><item><title><![CDATA[观点]]></title><description><![CDATA[ 
- <br>事实 立场 观点 方法]]></description><link>写作\观点.html</link><guid isPermaLink="false">写作/观点.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:47 GMT</pubDate></item><item><title><![CDATA[计划]]></title><description><![CDATA[ 
- <br>工作稳定后，我竟然开始讨厌假期，尤其是长假，这让我很意外。<br>假期来临前，令人憧憬，心绪飞扬，最后几个工作日度日如年；
-刚放假的那个夜晚，自由自在，无拘无束，这是最快乐的时光；
-假期开始后，逐渐觉得空虚无聊，无所事事；
-假期末尾，又感到焦虑不安，仿佛末日将至，无所适从；
-刚回到工作时，一团乱麻，工作堆积如山，需要一周加班加点。<br>平时被事情推着走，到自由的时候就真的不知道干嘛了。
-没有计划性。
-越是自由度大的时段，越需要计划。
-有了计划后，你就能被重新推着走。
-对于能动性低的人，烂计划也比没有计划好。<br>良好的习惯总是维持不过几天，滑入坏习惯后就松散又自在。人一旦接受自己的生活是漫无目的的流浪，就会看见责任绕道走。]]></description><link>写作\计划.html</link><guid isPermaLink="false">写作/计划.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:49 GMT</pubDate></item><item><title><![CDATA[谦虚]]></title><description><![CDATA[ 
- <br>中国传统文化崇尚谦虚. <br>过分的谦虚是自傲. ]]></description><link>写作\谦虚.html</link><guid isPermaLink="false">写作/谦虚.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:51 GMT</pubDate></item><item><title><![CDATA[责任]]></title><description><![CDATA[ 
+]]></description><link>https://note-gamma-eight.vercel.app/写作/节奏.html</link><guid isPermaLink="false">写作/节奏.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:39 GMT</pubDate></item><item><title><![CDATA[经验]]></title><description><![CDATA[ 
+ <br>经验、道理、习俗
+世间本没有这些东西, 这都是人们为了方便自己的行为创造出来的. <br>大概率 个体总结的经验与普遍现实是有较大偏差的; 增加样本量, 延长时间跨度 有助于增加准确度. <br>在一定条件下 经验可能是实用的. 但人们会依赖它们, 在环境发生改变时 不懂得重新分析 懒得根据现实情况判断, 而是不分青红皂白地 认定过去的总结. ]]></description><link>https://note-gamma-eight.vercel.app/写作/经验.html</link><guid isPermaLink="false">写作/经验.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:46 GMT</pubDate></item><item><title><![CDATA[精气神]]></title><description><![CDATA[ 
+ <br>纪律 → 自信
+这是一种由内而外散发的能量. <br>早上还在回忆那些高中的老师。他们大多数都是很有精气神，对自己要求很高的老师。
+但上学的时候就不觉得。有时候反而讨厌他们这么严格。
+现在想想自己，完全不具备他们那样的精气神。<br>做一个会发光的人 <br>神采奕奕, 炯炯有神, 热力四射, 铿锵有力, 杀伐果断, 雷厉风行, 乐于助人, 大公无私. ]]></description><link>https://note-gamma-eight.vercel.app/写作/精气神.html</link><guid isPermaLink="false">写作/精气神.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:42 GMT</pubDate></item><item><title><![CDATA[镜]]></title><description><![CDATA[ 
+ <br>自己想象中的自己、镜子中的自己、不同人眼中的自己<br>我打网球, 喜欢找出自身问题并加以改进的感觉. 但我发现 自己脑海中的动作 与 录像中自己的动作 相去甚远. <br>你认为自己是个什么样的人? 如果别人做出你的行为 你一定会认同吗? 别人如何评价你?<br>镜子之前，古人无法跳出自身的角度观察自己。
+现代人拥有更多方法，如自拍、视频。<br>为什么需要第三人称镜头? 我们常常不能意识到我们与我们脑海中的自己是相当不同的。尽管自己是最了解、最熟悉自己的人，但对自己的评价、判断正因此偏离实际情况。我们有时放大自己的优点，甚至自傲自恋、自以为是；有时候放大自己的缺点，以为自己的问题多么特殊，陷入自卑自怜、自怨自艾。
+他人的判断很难比自己的判断中肯，因为他们永远无法得知我的内心活动。而我如果自己能拥有第三者视角，那么对自己的判断准确度简直仿佛上帝视角。]]></description><link>https://note-gamma-eight.vercel.app/写作/镜.html</link><guid isPermaLink="false">写作/镜.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:02 GMT</pubDate></item><item><title><![CDATA[鞠躬]]></title><description><![CDATA[ 
+ <br>我生命中出现的人们。
+感谢相遇，感谢我们的交流，感谢曾经的相遇。<br>鞠躬。
+再鞠躬。]]></description><link>https://note-gamma-eight.vercel.app/写作/鞠躬.html</link><guid isPermaLink="false">写作/鞠躬.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:09 GMT</pubDate></item><item><title><![CDATA[拒绝]]></title><description><![CDATA[ 
+ <br>合作是双方达成一致的结果. <br>但有时候 我在勉强自己 迎合对方 完成我并不擅长的任务. ]]></description><link>https://note-gamma-eight.vercel.app/写作/拒绝.html</link><guid isPermaLink="false">写作/拒绝.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:56 GMT</pubDate></item><item><title><![CDATA[具体的人]]></title><description><![CDATA[ 
+ <br>字节跳动前老板张一鸣曾在采访中提到：人与人之间的沟通比移动互联网普及前多得多。他反对“低头族”这样的负面称呼，认为尽管面对面的交流减少了，但人与信息的沟通大大增加。<br>我同意他的观点。然而，这种沟通与真实接触的沟通是不同的。<br>通过互联网了解事件似乎无可厚非，但大多数事件与人密不可分。互联网给人一种错觉：我了解这个人了，我可以发表观点。互联网为人们提供了一副面具，使他们可以肆无忌惮地发言。<br>如果在现实中遇到同样的人，我们的反应往往与在互联网上不同。在网络上批评的对象，在现实中可能会被恭维；在网络上指责的对象，在现实中可能会被敬仰；在网络上为他人出谋划策，在现实中自己却犹豫不决。这就像坐下来吃饭：围在一张饭桌旁，我们会更有耐心地倾听他人，更真诚地去理解，并为他人和自己保留情面。<br>陀思妥耶夫斯基说：去爱具体的人。
+人们可以对大爱夸夸其谈，但对身边的人却尖酸刻薄。<br>互联网让我们接触到原本没有机会接触的人和事。<br>这并不是一个新现象。在说书人口中、在报纸杂志上、在电视荧幕上，这种现象早已存在，只是规模没有如此庞大，影响没有如此深远。]]></description><link>https://note-gamma-eight.vercel.app/写作/具体的人.html</link><guid isPermaLink="false">写作/具体的人.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:12 GMT</pubDate></item><item><title><![CDATA[面子]]></title><description><![CDATA[ 
+ <br>我是个非常好面子的人. 这阻碍我展现真正的自我，隐藏缺陷的同时也遮住了我的闪光点. <br>谈谈如何做好“面子工程”]]></description><link>https://note-gamma-eight.vercel.app/写作/面子.html</link><guid isPermaLink="false">写作/面子.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:08 GMT</pubDate></item><item><title><![CDATA[排列组合]]></title><description><![CDATA[ 
+ <br>我们都是一群排列组合的结果.
+我们的基因是排列组合, 我们的思想是排列组合. <br>我们没有真正属于自己的思想, 只是东拼西凑、一知半解, 重复别人的话, 并以为这是自己的思想.
+要学会反驳 辩证 第一性原理.
+极少数的人能够创造独一无二的思想. <br>所以大多数的我们 会被AI击垮. ]]></description><link>https://note-gamma-eight.vercel.app/写作/排列组合.html</link><guid isPermaLink="false">写作/排列组合.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:58 GMT</pubDate></item><item><title><![CDATA[朋友]]></title><description><![CDATA[ 
+ <br>朋友的意义是什么？
+互相搀扶度过一段路，为原本站不住脚的的人生信条找一个依靠。<br>具体包括：<br>
+<br>情感支持：朋友提供情感上的慰藉和鼓励。
+<br>社交需求：满足人类与他人交往的基本需求。
+<br>个人成长：通过与朋友的互动，我们学习新的观点和技能。
+<br>共同经历：创造美好回忆，分享人生的重要时刻。
+<br>互助互利：在生活和工作中互相帮助和支持。
+<br>培养和维护友谊需要时间、努力和真诚。珍惜身边的朋友，主动关心他们，保持良好的沟通，这样友谊才能长久持续。<br>朋友间的相处方式
+损友 是我一直无法适应的相处方式. ]]></description><link>https://note-gamma-eight.vercel.app/写作/朋友.html</link><guid isPermaLink="false">写作/朋友.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:05 GMT</pubDate></item><item><title><![CDATA[偏执狂]]></title><description><![CDATA[ 
+ <br>我需要妄想症，我需要知道我能做好任何事，尤其是我想做的事情。只要别影响他人的生活，说话、做事都不需要太客观。指鹿为马，当你连自己都能骗过的时候，这就对了。
+相信自己所信的，不停地失败、失败、失败……继续。You just stick around.
+狭隘没什么不好的，每个人都狭隘，都只信自己所信。为什么不让自己信得更死心塌地，至死不渝
+你必须要有自己的思考、判断、观点、立场，不然你就只是平庸的蝗虫。偏激偏执远比中庸之道有意义得多。想活出自己，就避免事事妥协。把自己做出极致，这才让我羡慕。]]></description><link>https://note-gamma-eight.vercel.app/写作/偏执狂.html</link><guid isPermaLink="false">写作/偏执狂.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:09 GMT</pubDate></item><item><title><![CDATA[破局]]></title><description><![CDATA[ 
+ <br>如何打破先发者的既定优势, 甚至是行业壁垒? <br>大家都知道去新的领域 新的风口, 不要在没有增长的成熟产业死磕.
+但马斯克如何在火箭发射成功? 如何重新定义汽车行业?]]></description><link>https://note-gamma-eight.vercel.app/写作/破局.html</link><guid isPermaLink="false">写作/破局.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:39 GMT</pubDate></item><item><title><![CDATA[谦虚]]></title><description><![CDATA[ 
+ <br>中国传统文化崇尚谦虚. <br>过分的谦虚是自傲. ]]></description><link>https://note-gamma-eight.vercel.app/写作/谦虚.html</link><guid isPermaLink="false">写作/谦虚.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:51 GMT</pubDate></item><item><title><![CDATA[亲密关系]]></title><description><![CDATA[ 
+ <br>无论多亲密的关系，要保持适当距离。<br>古人总结：相敬如宾。<br>有些话，有距离的时候可以谈，没距离的时候反而不方便谈。]]></description><link>https://note-gamma-eight.vercel.app/写作/亲密关系.html</link><guid isPermaLink="false">写作/亲密关系.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:07 GMT</pubDate></item><item><title><![CDATA[情绪]]></title><description><![CDATA[ 
+ <br>情绪有哪些?
+开心、愤怒、<br>如何掌控情绪?
+情绪的本质是什么?
+情绪的本质是感官导致的激素水平与脑电波.]]></description><link>https://note-gamma-eight.vercel.app/写作/情绪.html</link><guid isPermaLink="false">写作/情绪.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:46 GMT</pubDate></item><item><title><![CDATA[善恶]]></title><description><![CDATA[ 
+ <br>做一个好人、善良的人, 首先要理解什么是善良，什么是邪恶？<br>善恶的判断并非绝对，而是相对的。且与利益紧密相关。<br>
+<br>
+任何行为，一定有受益者，受害者。
+最善良的行为, 也有间接的受害者; 最邪恶的行为, 也有受益者。
+
+<br>
+对一方的善良, 对另一方可能是邪恶。
+
+<br>
+对大多数人的善良, 并不一定就是对的.
+
+<br>
+在不同的道德伦理观下, 善恶的判断标准不同。
+曾经的善可能变成现在的恶, 曾经的恶可能变成现在的善。
+
+<br>善恶的界限并不总是清晰可见，有时甚至模糊不清。<br>道德困境<br>例如，在战争时期，一个士兵可能面临这样的道德困境：他必须决定是否要攻击敌方的一个村庄。攻击可能会导致无辜平民的伤亡，但如果不攻击，敌方可能会利用这个村庄作为基地，发动更多的攻击，造成更多的伤亡。在这种情况下，士兵需要在两难的选择中做出决定。]]></description><link>https://note-gamma-eight.vercel.app/写作/善恶.html</link><guid isPermaLink="false">写作/善恶.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:23 GMT</pubDate></item><item><title><![CDATA[生命很美好]]></title><description><![CDATA[ 
+ <br>每一刻都很美好，比过去更加美好。我们只是忘了如何享受每一刻。]]></description><link>https://note-gamma-eight.vercel.app/写作/生命很美好.html</link><guid isPermaLink="false">写作/生命很美好.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:32 GMT</pubDate></item><item><title><![CDATA[十年树木]]></title><description><![CDATA[ 
+ <br>误以为参天大树从来都是如此巨大，忽略了事物都是从无到有发展起来的客观事实。<br><br>小树抬头仰望参天巨木：“你那么高大，枝繁叶茂，十人不可环抱。我如何能长到那么大？”<br>巨木：“必然是有稳固的根基与宽广的视野。你要努力扎根，汲取更多营养；展开绿叶，吸收更多阳光。”<br>小树：“我尝试了。泥土里的盘根错节比我的树干还要粗得多，已经没有太多容得下我的土壤。”<br>巨木：“曾经我的根、我的叶 都同你一样。”<br>小树：“几百年前，这里尚且不是森林。”<br>巨木：“那时这里不过乱石与沙土。一眨眼已如此繁华，绿意盎然，勃勃生机。”<br>小树：“曾经土地中根须不那么多，任你遨游；天空中的叶子也不那么密，抬头皆是蓝天。如今的我该怎么办？“<br>巨木：”我的树冠为你遮风挡雨，我的落叶为你提供腐殖质。“<br>小树：”但我恐怕难以在这片茂密森林中成长为举足轻重的大树，鸟儿不会在我的枝头筑巢。我的根太软弱，太短小，无法触及土地的深处；我的叶太小巧，太低矮，阳光都被遮挡，还要遭受更多的虫咬。“<br>巨木：”那时，我是一颗小小的种子，鸟儿从远处将我带到这片空旷贫瘠的大地。我并不比你强壮，也不比你高大。“<br>小树：”它们都说几百年来你从来都是这样高大。原来你也有渺小的时候，不是生来高耸入云。“<br>巨木：”小树自有其优势，小巧柔韧又不招风，生长速度惊人。狂风暴雨中我弯倒又竖起；连月无雨时我搜寻皲裂的土地中残存的水分与肥料。“<br>小树：”骤雨来袭，我只感到豆大的雨珠，狂风都已被你挡住；更不用说大地会裂开，我无法想象。“<br>巨木：”渐渐地，我的树干和年轮一同变粗，鸟儿在我肩膀筑巢。最重要的是你能够茁壮成长。鸟儿会因凌冬将至而离去，来年也自会口衔枯枝飞来。“<br>阳光穿过巨木叶片的缝隙，斑驳的剪影闪烁在小树上。]]></description><link>https://note-gamma-eight.vercel.app/写作/十年树木.html</link><guid isPermaLink="false">写作/十年树木.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:11:15 GMT</pubDate></item><item><title><![CDATA[时间旅行者]]></title><description><![CDATA[ 
+ <br>我们是背负时间行囊的旅行者。<br>他们说 人类只能在三维空间中自由行动，而时间作为第四维度，我们只能被动地随时间流逝而行动。<br>然而，过去塑造了现在的我们。此刻的我，是过去每个瞬间的叠加。过去的瞬间并未消逝，它们伴随我们，成为现在的我们。此刻的我并不重要, 只要有过去每一个瞬间的我, 此刻的我只是一个必然的结果. 从这个意义上说，我们活在每一个经历过的时刻，是过去每个瞬间的集合。<br>有的瞬间很重, 体积很大, 像水;
+有的瞬间很轻, 体积很大, 像气球;
+有的瞬间很重, 但体积很小, 像铅块;
+多数的瞬间又轻又小, 像一粒粒尘埃.<br>有的瞬间很温暖;
+有的瞬间浑身尖刺;
+多数的瞬间无色无味无感.<br>我们随身携带着过去, 只是背负的时间长了, 忘记它还在身上. 忘记过去，等同于卸下过去的经历。但我们无法真正忘记，正如河流无法忘记流经的山谷。那些刻下的痕迹，永远是我们的一部分。<br>旅途中, 我们不时在行囊中翻找, 找那些有价值的记忆. <br>至于未来, 我们本就无法自控地不断迈入未来, 下一个未来, 再下一个未来. 就像站在移动的传送带上, 即使不迈步, 时间也会推着我们向前.<br>我们只是能力有限的时间旅行者, 一个个时间行囊不断加重的旅行者. 年迈时, 被背后鼓囊囊的时间压弯了腰. <br>每一步都是时间的印记，每一天都是旅程的一部分。我们在时间长河中跋涉，既是旅人，也是故事的主角。]]></description><link>https://note-gamma-eight.vercel.app/写作/时间旅行者.html</link><guid isPermaLink="false">写作/时间旅行者.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:55 GMT</pubDate></item><item><title><![CDATA[通用学习路径]]></title><description><![CDATA[ 
+ <br>前提: 已知目的<br>锚定标杆 → 观察 → 模仿 → 拆解本质 / 建立认知 → 实践 → 校准认知（循环） → 对齐标杆<br>一开始学球 我纯粹观察模仿费德勒, 通过表象学习, 那时候动作还凑活;
+后来我想理解网球动作的本质, 于是按自己的理解去打, 越走越偏, 越来越烂;
+昨晚我按自己的理解 在家空挥, 居然重新偏向费德勒正手. 这时候我就知道 我的理解OK了.]]></description><link>https://note-gamma-eight.vercel.app/写作/通用学习路径.html</link><guid isPermaLink="false">写作/通用学习路径.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:57 GMT</pubDate></item><item><title><![CDATA[童年视角]]></title><description><![CDATA[ 
+ <br>一晃眼已三十，我成为了我小时候不喜欢的样子。
+今年我的目标是向小时候我会喜欢的样子靠拢。<br>首先，为什么大人总会变成这样
+金钱的高效使其他事物的吸引力骤降，曾经有趣的事情都可用金钱购买]]></description><link>https://note-gamma-eight.vercel.app/写作/童年视角.html</link><guid isPermaLink="false">写作/童年视角.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:40 GMT</pubDate></item><item><title><![CDATA[玩笑]]></title><description><![CDATA[ 
+ <br>开玩笑 有什么限度?]]></description><link>https://note-gamma-eight.vercel.app/写作/玩笑.html</link><guid isPermaLink="false">写作/玩笑.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:30 GMT</pubDate></item><item><title><![CDATA[我是一棵树]]></title><description><![CDATA[ 
+ <br>冬天，晴天，有风。白天的风不特别冷，扳着我已稀疏的枝桠轻轻摇动，地面上我的金色叶片们在翻腾、起舞。人们在我下方走动，冬天的人类将身子裹得严严实实，行色匆匆，不再喜欢在我身边坐下。<br>我在想：我与会动的生命有什么区别？
+它们的构造与我们迥然不同，常常显得活力四射，会制造出各种声音，会周游世界，可惜生命也往往极其短暂。<br>人类在这其中尤为特别，它们将我身边的世界完全改变了，我们从此不是地平线上的最高点。大多数时候它们手段残忍，不顾我们族群的感受，对我们犯下惨绝树寰的种族灭绝罪行；最近，偶然间它们良心发现，对仅存不多的我们善加保护。]]></description><link>https://note-gamma-eight.vercel.app/写作/我是一棵树.html</link><guid isPermaLink="false">写作/我是一棵树.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:54 GMT</pubDate></item><item><title><![CDATA[无限趋近于零]]></title><description><![CDATA[ 
+ <br>函数 f(x) 在 x 无限接近于零时的行为. <br>我们的任何行为与思想是这个世界上的最优解的可能性, 无限趋近于零. <br>那么我们怎么可以放肆地、傲慢地认为 自己的行为和思想 是正确的呢? 正相反, 它一定是有瑕疵的、漏洞百出的, 甚至荒谬可笑的、无知又可悲的. 一定有亿万种其他的方式方法远比我们现在的好得多, 而我们仍旧去同他人争吵、辩论、说教, 我们仍旧觉得自己胜人一筹, 我们仍旧认定天空就如井口一样圆, 这一切都一定是由缘于我们的愚蠢和狭隘、自私与懦弱. <br>自信 一定是人类最大的幻觉!
+因为我们本应享尽无数种理由去自卑, 却凭借毫无任何资本的空空脑袋去自信. <br>大笑吧!
+我们一无所有.
+我们不值一提. <br>但我们依然需要自信, 而非自卑. <br>因为无论我们有多优秀, 这世界上仍有无限量的进步空间.
+因为我们可以永远相信, 这世界上没有最优解, 只有更高更快更强.
+因为自卑心一旦遇见如此广阔的天地, 它就会瞬间瞠目结舌, 它黯淡的瞳孔也会无比闪耀. ]]></description><link>https://note-gamma-eight.vercel.app/写作/无限趋近于零.html</link><guid isPermaLink="false">写作/无限趋近于零.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:59 GMT</pubDate></item><item><title><![CDATA[悟]]></title><description><![CDATA[ 
+ <br>悟 只能靠自己. <br>悟性 是可以提高的. ]]></description><link>https://note-gamma-eight.vercel.app/写作/悟.html</link><guid isPermaLink="false">写作/悟.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:44 GMT</pubDate></item><item><title><![CDATA[消费品]]></title><description><![CDATA[ 
+ <br>超出实用价值的溢价赋予产品超额利润。
+每个人都会陷入不同的消费主义陷阱。有时候我们想要并不需要的产品，有时候我们想要
+什么是消费主义陷阱]]></description><link>https://note-gamma-eight.vercel.app/写作/消费品.html</link><guid isPermaLink="false">写作/消费品.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:25 GMT</pubDate></item><item><title><![CDATA[写作]]></title><description><![CDATA[ 
+ <br>写作=思考<br>写作是一种表达和促进思想的强大工具。<br>没有思维的输出，就没有思想的沉淀。<br>写作方法论：<br>
+<br>
+明确目标：在开始写作之前，明确你想要传达的核心思想和目标。了解你的受众是谁，以及你希望他们从中获得什么。
+
+<br>
+结构化思维：写作需要有清晰的结构。
+
+<br>
+头脑风暴：在动笔之前，借助AI, 进行头脑风暴，记录所有相关的想法和观点。筛选出最有价值的内容展开。
+
+<br>
+持续练习：每天坚持写作，即使一两句话。或者回顾改写过去的文字。
+
+<br>
+多读多写：广泛阅读优秀的作品，学习不同的写作风格和技巧。刻意模仿和实践，找到适合自己的写作风格。
+
+<br>
+反馈与修改：写作完成后，敢于主动寻求他人的反馈。勇于发布到网络平台，根据反馈进行修改和完善，提升文章的质量。
+
+]]></description><link>https://note-gamma-eight.vercel.app/写作/写作.html</link><guid isPermaLink="false">写作/写作.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:14 GMT</pubDate></item><item><title><![CDATA[心魔]]></title><description><![CDATA[ 
+ <br>最难跨过的并不是任何客观上的艰难险阻，而是心魔。<br>心魔笼罩，即使有再多的办法、面堆再微不足道的困难也难迈半步。]]></description><link>https://note-gamma-eight.vercel.app/写作/心魔.html</link><guid isPermaLink="false">写作/心魔.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:42 GMT</pubDate></item><item><title><![CDATA[新语]]></title><description><![CDATA[ 
+ <br>说来说去一样的话, 是令人厌烦的. 但一个人的思想又十分有限. <br>一个人的思想是不断加深强化的, 年纪越大, 思想越顽固. 看到相同的观点, 会强化; 看到相反的观点, 居然更加强化固有观点. 所以大多数人越老越没意思 老顽童是难得的. <br>我们喜欢遇到新的人, 和不同的人交谈. 因为他们的话都是新鲜的.
+但一旦与他们长久地相处, 就会感到重复, 车轱辘话, 老调重弹, 厌烦. <br>如何不断讲出新意思, 解读出新角度? 即使固有观点, 也能够自我推翻重来.]]></description><link>https://note-gamma-eight.vercel.app/写作/新语.html</link><guid isPermaLink="false">写作/新语.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:59 GMT</pubDate></item><item><title><![CDATA[信仰]]></title><description><![CDATA[ 
+ <br>只有行为与自身利益完全相背，我才相信是真正地信仰。<br>绝大多数人并不是真正地相信任何事理，只是根据自己的利益选择而已。 <br>上帝的信仰者只不过是为了上天堂；
+佛祖的信仰者只不过是为了平安健康；
+资本主义的信仰者只不过是为了保住私有财产。<br>我们说这句话是为了自己，走那条路是为了自己，交这个朋友是为了自己，做那件事是为了自己。
+我们并没有那么高尚，这样也没有什么错。<br>但所幸这世上还有那么些人是为了真理而活。<br>身为资本家的后代，却放弃全部家产，投入共产主义事业的人是值得尊敬的；
+身为统治阶级的后代，却与原阶级唱反调，倡导自由民主的人是值得尊敬的；
+为了正义事业放弃一切、献出生命的人是值得尊敬的；
+为了邪恶事业放弃一切、献出生命的人是值得尊敬的。<br>可能你说他愚昧无知，可能你说他走火入魔。但不论信仰的优劣，真正地拥有超越个人利益的信仰，是难能可贵的。]]></description><link>https://note-gamma-eight.vercel.app/写作/信仰.html</link><guid isPermaLink="false">写作/信仰.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:08 GMT</pubDate></item><item><title><![CDATA[眼镜时代]]></title><description><![CDATA[ 
+ <br>手机时代到眼镜时代的增量信息在于对视野中的图像、物体，基于设备保持采集图像和实体信息。
+人很难接受随时随地都有被录音录像的可能，而眼镜侵入隐私的程度、数据采集的频率和规模不是现在手机时代能比的。
+隐私问题不是新问题，从Web时代到手机时代就不断凸显。
+相较于把权限开放给在后台不间断将数据上传云端的第三方App，硬件厂商原生AI更容易取得消费者信任。第三方App仍具备抢占视野的能力，但这种能力将因其权限的受限而被大大削弱。
+增量信息的权限将被牢牢掌控在具备信誉的硬件厂商手中。眼镜时代的战场将会从第三方App重回第一方。]]></description><link>https://note-gamma-eight.vercel.app/写作/眼镜时代.html</link><guid isPermaLink="false">写作/眼镜时代.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:35 GMT</pubDate></item><item><title><![CDATA[瘾]]></title><description><![CDATA[ 
+ <br>我们都在对不同的事上瘾。有人为赚钱上瘾，有人因吸毒成瘾，有人运动健身上瘾，有人沉迷刷抖音，有人读书学习上瘾，有人色情暴力上瘾，有人痴迷于勤俭节约，有人痴迷于赌博挥霍。
+究其根本，我们都在追寻快乐。]]></description><link>https://note-gamma-eight.vercel.app/写作/瘾.html</link><guid isPermaLink="false">写作/瘾.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:33 GMT</pubDate></item><item><title><![CDATA[赢]]></title><description><![CDATA[ 
+ <br>赢: 在竞争中击败对手。
+要素: 对手, 衡量尺度。
+为什么有对手，为什么衡量尺度是这样的？<br><br><br>接受自身的不完美. 我的失误、愚蠢行为、负面情绪都是正常的, 那么输也是正常的. <br>
+<br>当我幻想如何输、如何赢, 或是 如何精彩发挥、如何低级失误, 都会心跳加速, 紧张难抑; 
+<br>当我的目的仅仅是 展现风采, 并设定简单易行的一两个小目标, 我的内心平静、专注且有力. 
+<br><br>
+<br>正视紧张, 紧张是正常的反应. 要知道, 这没什么大不了, 即使最伟大的运动员也会在关键时刻感到紧张. 
+<br>学会应对, 降低心率, 深呼吸, 4-4-4-4呼吸法. 
+<br>唤回专注力, 对自己说话, 告诉自己下一步需要做什么具体行为. 
+<br>感受紧张, 感受心跳, 感受发冷的手, 感受出汗, 感受四肢无力. 
+<br>利用紧张, 将紧张的感受应用于
+<br>提高阈值, 训练Zone2
+<br>竞争的意义永远来自你的内心：是否发挥出自己的水平，是否比昨天有进步。
+单纯依靠胜利支撑的意义是不可靠的，因为随着你的进步，总有一天你会遇到更强大的对手，总有一天你会一败涂地。这时候，是怀疑自己，还是正视问题，靠的是内心深处的答案。<br><br><br>每一个对手都是帮助你进步的伙伴。竞争不仅仅是为了胜利，而是为了自我提升和成长。通过与对手的较量，我们可以发现自己的不足，明确努力的方向。<br>
+<br>如果惨败，对手是助你打开眼界的伙伴；他让你看到更广阔的世界，激励你去探索未知的领域。
+<br>如果惜败，对手是助你发现问题的伙伴；他让你意识到自己的短板，促使你去改进和完善。
+<br>如果险胜，对手是给予你信心的伙伴；他让你看到自己的潜力，增强你的自信心。
+<br>如果大胜，对手是教你认真对待任何对手的伙伴；他提醒你谦逊和谨慎的重要性。
+<br><br>你可以选择自己的行为与态度, 但无法选择对手的行为与态度. 无论面对什么样的对手, 我们的目的都是为了成为更好的自己. <br>
+<br>如果对手是君子，可以向他学习；他的品德和能力都是你可以借鉴的榜样。
+<br>如果对手是小人，可以锻炼自己的心态；他的挑战是你磨练意志和耐心的机会。
+<br><br>不是说不能在乎输赢，适度的好胜心可以激励你进步。然而，如果你只关注与同班同学、部门同事或熟悉的球友之间的竞争，这种狭隘的视野可能会限制你的成长。拓宽视野，推动集体共同进步，才能迈向更广阔的天地，从小溪流汇入大河，再流向大海。<br><br><br>
+<br>
+设定合理的目标：设定切实可行的目标，不要给自己施加过大的压力。目标应该是具体的、可衡量的、可实现的、相关的和有时间限制的（SMART原则）。
+
+<br>
+保持积极的心态：积极的心态可以帮助你更好地应对竞争中的挑战。相信自己的能力，保持乐观的态度，即使遇到挫折也不要轻易放弃。在紧张的竞争中，学会放松是非常重要的。可以通过深呼吸、冥想、听音乐等方式来缓解压力，保持身心的平衡。
+
+<br>
+寻求支持：不要孤军奋战，寻求家人、朋友和同事的支持和鼓励。他们的支持可以给你带来力量和信心，帮助你更好地应对竞争。
+
+<br>
+合理安排时间：在竞争中，合理安排时间是关键。制定详细的计划，确保在工作和休息之间找到平衡。不要过度劳累，保持充足的睡眠和休息时间。
+
+<br>
+自我反思：定期进行自我反思，评估自己的表现和进步。通过反思，你可以发现自己的不足，找到改进的方法，从而在竞争中不断提升自己。
+
+<br><br>没有理所应当的赢, 也没有理所应当的输
+不要给自己预设, 不要给对手预设. 没有谁是你能随随便便赢的, 也没有谁是你百分之百输的. 以一个中立的态度对待每一个对手, 这样心态就不容易因局势的走向失衡. <br><br><br>比赛的目的是交流与学习，成为更好的彼此。无论实力对比如何，在赛场上的对手即是平等的。应不卑不亢，认真对待，这才是尊重对手，尊重自己，尊重比赛的表现。<br><br>
+<br>
+互相尊重
+
+<br>对手的每一个动作都值得认真对待
+<br>不轻视实力较弱的对手
+<br>不畏惧实力较强的对手
+
+
+<br>
+真诚沟通
+
+<br>赛前礼貌地问候
+<br>比赛中保持专注
+<br>赛后真诚地交流心得
+
+
+<br>
+共同进步
+
+<br>分享经验和技巧
+<br>相互指出可以改进的地方
+<br>建立良性的竞争关系
+
+
+<br><br>
+<br>每场比赛都全力以赴，这是对竞技精神的尊重
+<br>胜利时保持谦逊，失败时坦然接受
+<br>主动与对手交流，创造学习的机会
+<br>记录比赛中的收获，便于日后复盘
+<br><br>竞争的真正意义在于自我超越，而非单纯的胜负。每一次竞争都是一次自我反思和成长的机会。无论结果如何，重要的是从中汲取经验，继续前行。]]></description><link>https://note-gamma-eight.vercel.app/写作/赢.html</link><guid isPermaLink="false">写作/赢.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:34 GMT</pubDate></item><item><title><![CDATA[阅读]]></title><description><![CDATA[ 
+ <br>阅读方法论<br>
+<br>PACER
+- Procedural
+- Practice
+- Analogous
+- Critique
+- Conceptual
+- Mapping
+- Evidence
+- Store &amp; Reherse
+- Reference
+- Store &amp; Reherse
+听力辅助
+速度
+]]></description><link>https://note-gamma-eight.vercel.app/写作/阅读.html</link><guid isPermaLink="false">写作/阅读.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:04 GMT</pubDate></item><item><title><![CDATA[责任]]></title><description><![CDATA[ 
  <br>本文将从具体的方法论出发, 探讨如何培养责任感. <br>责任感的特征<br>
 <br>守信用
 <br>可靠性
@@ -492,110 +566,38 @@ Chuck Close说：“灵感是给业余者的。我们其他人只是出现并开
 
 
 <br>成事的关键在于将这些要素有机结合，并在执行过程中不断调整和优化。同时，保持积极的心态和持续的学习精神也是成功的重要因素。<br>深度思考<br>承担后果<br>这是最简单的部分, 你只需要承担即可. 最重要的方法就是在事先明确后果.
-如果你想要规避部分责任, 请在事先就尽可能地考虑到所有可能的后果, 并制定相应的措施. 而不是在事情发生后, 才去想如何补救. ]]></description><link>写作\责任.html</link><guid isPermaLink="false">写作/责任.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:52 GMT</pubDate></item><item><title><![CDATA[赢]]></title><description><![CDATA[ 
- <br>赢: 在竞争中击败对手。
-要素: 对手, 衡量尺度。
-为什么有对手，为什么衡量尺度是这样的？<br><br><br>接受自身的不完美. 我的失误、愚蠢行为、负面情绪都是正常的, 那么输也是正常的. <br>
-<br>当我幻想如何输、如何赢, 或是 如何精彩发挥、如何低级失误, 都会心跳加速, 紧张难抑; 
-<br>当我的目的仅仅是 展现风采, 并设定简单易行的一两个小目标, 我的内心平静、专注且有力. 
-<br><br>
-<br>正视紧张, 紧张是正常的反应. 要知道, 这没什么大不了, 即使最伟大的运动员也会在关键时刻感到紧张. 
-<br>学会应对, 降低心率, 深呼吸, 4-4-4-4呼吸法. 
-<br>唤回专注力, 对自己说话, 告诉自己下一步需要做什么具体行为. 
-<br>感受紧张, 感受心跳, 感受发冷的手, 感受出汗, 感受四肢无力. 
-<br>利用紧张, 将紧张的感受应用于
-<br>提高阈值, 训练Zone2
-<br>竞争的意义永远来自你的内心：是否发挥出自己的水平，是否比昨天有进步。
-单纯依靠胜利支撑的意义是不可靠的，因为随着你的进步，总有一天你会遇到更强大的对手，总有一天你会一败涂地。这时候，是怀疑自己，还是正视问题，靠的是内心深处的答案。<br><br><br>每一个对手都是帮助你进步的伙伴。竞争不仅仅是为了胜利，而是为了自我提升和成长。通过与对手的较量，我们可以发现自己的不足，明确努力的方向。<br>
-<br>如果惨败，对手是助你打开眼界的伙伴；他让你看到更广阔的世界，激励你去探索未知的领域。
-<br>如果惜败，对手是助你发现问题的伙伴；他让你意识到自己的短板，促使你去改进和完善。
-<br>如果险胜，对手是给予你信心的伙伴；他让你看到自己的潜力，增强你的自信心。
-<br>如果大胜，对手是教你认真对待任何对手的伙伴；他提醒你谦逊和谨慎的重要性。
-<br><br>你可以选择自己的行为与态度, 但无法选择对手的行为与态度. 无论面对什么样的对手, 我们的目的都是为了成为更好的自己. <br>
-<br>如果对手是君子，可以向他学习；他的品德和能力都是你可以借鉴的榜样。
-<br>如果对手是小人，可以锻炼自己的心态；他的挑战是你磨练意志和耐心的机会。
-<br><br>不是说不能在乎输赢，适度的好胜心可以激励你进步。然而，如果你只关注与同班同学、部门同事或熟悉的球友之间的竞争，这种狭隘的视野可能会限制你的成长。拓宽视野，推动集体共同进步，才能迈向更广阔的天地，从小溪流汇入大河，再流向大海。<br><br><br>
-<br>
-设定合理的目标：设定切实可行的目标，不要给自己施加过大的压力。目标应该是具体的、可衡量的、可实现的、相关的和有时间限制的（SMART原则）。
-
-<br>
-保持积极的心态：积极的心态可以帮助你更好地应对竞争中的挑战。相信自己的能力，保持乐观的态度，即使遇到挫折也不要轻易放弃。在紧张的竞争中，学会放松是非常重要的。可以通过深呼吸、冥想、听音乐等方式来缓解压力，保持身心的平衡。
-
-<br>
-寻求支持：不要孤军奋战，寻求家人、朋友和同事的支持和鼓励。他们的支持可以给你带来力量和信心，帮助你更好地应对竞争。
-
-<br>
-合理安排时间：在竞争中，合理安排时间是关键。制定详细的计划，确保在工作和休息之间找到平衡。不要过度劳累，保持充足的睡眠和休息时间。
-
-<br>
-自我反思：定期进行自我反思，评估自己的表现和进步。通过反思，你可以发现自己的不足，找到改进的方法，从而在竞争中不断提升自己。
-
-<br><br>没有理所应当的赢, 也没有理所应当的输
-不要给自己预设, 不要给对手预设. 没有谁是你能随随便便赢的, 也没有谁是你百分之百输的. 以一个中立的态度对待每一个对手, 这样心态就不容易因局势的走向失衡. <br><br><br>比赛的目的是交流与学习，成为更好的彼此。无论实力对比如何，在赛场上的对手即是平等的。应不卑不亢，认真对待，这才是尊重对手，尊重自己，尊重比赛的表现。<br><br>
-<br>
-互相尊重
-
-<br>对手的每一个动作都值得认真对待
-<br>不轻视实力较弱的对手
-<br>不畏惧实力较强的对手
-
-
-<br>
-真诚沟通
-
-<br>赛前礼貌地问候
-<br>比赛中保持专注
-<br>赛后真诚地交流心得
-
-
-<br>
-共同进步
-
-<br>分享经验和技巧
-<br>相互指出可以改进的地方
-<br>建立良性的竞争关系
-
-
-<br><br>
-<br>每场比赛都全力以赴，这是对竞技精神的尊重
-<br>胜利时保持谦逊，失败时坦然接受
-<br>主动与对手交流，创造学习的机会
-<br>记录比赛中的收获，便于日后复盘
-<br><br>竞争的真正意义在于自我超越，而非单纯的胜负。每一次竞争都是一次自我反思和成长的机会。无论结果如何，重要的是从中汲取经验，继续前行。]]></description><link>写作\赢.html</link><guid isPermaLink="false">写作/赢.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:34 GMT</pubDate></item><item><title><![CDATA[通用学习路径]]></title><description><![CDATA[ 
- <br>前提: 已知目的<br>锚定标杆 → 观察 → 模仿 → 拆解本质 / 建立认知 → 实践 → 校准认知（循环） → 对齐标杆<br>一开始学球 我纯粹观察模仿费德勒, 通过表象学习, 那时候动作还凑活;
-后来我想理解网球动作的本质, 于是按自己的理解去打, 越走越偏, 越来越烂;
-昨晚我按自己的理解 在家空挥, 居然重新偏向费德勒正手. 这时候我就知道 我的理解OK了.]]></description><link>写作\通用学习路径.html</link><guid isPermaLink="false">写作/通用学习路径.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:57 GMT</pubDate></item><item><title><![CDATA[错的意义]]></title><description><![CDATA[ 
- <br>成功的人，经历了重重考验，犯下无数错误，总结出经验。
-光阴荏苒，成功者牢记了默念千万遍的宝贵经验，却常常忘记来时的路，乃至藐视错误的意义。<br>正可谓：通关文牒不可少，取经歧路更紧要。斗战胜佛断然好，大闹天宫无人笑。<br>重要的不是击败boss的方法、技巧和窍门，而是一遍遍的失败与重来、螺旋上升的过程。<br>假如在即将关闭人生游戏的时候，我可以写几句留言。
-我不想对刚打开游戏的新玩家说：学什么技能、穿什么装备、不同的boss有什么杀招、要在什么时刻按什么键……
-我不想对仍在上下求索的玩家说：这里有条最佳秘密路线、那里有更好的打法、这个想法我试过了是不可能的、那个谜题我来揭示背后真正的含义……
-我想说：我来过，我跌倒过，每一次我都重新站起来，直到我失去所有力气。每一个勇敢的人生玩家，你也可以。<br>请允许新上路的旅人，走进同样的死胡同，踩入同样的泥坑，同样摔个狗吃屎并同样地灰头土脸地爬起来。<br>走自己的路、勇敢犯错、善于总结、乐观面对。]]></description><link>写作\错的意义.html</link><guid isPermaLink="false">写作/错的意义.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:59 GMT</pubDate></item><item><title><![CDATA[镜]]></title><description><![CDATA[ 
- <br>自己想象中的自己、镜子中的自己、不同人眼中的自己<br>我打网球, 喜欢找出自身问题并加以改进的感觉. 但我发现 自己脑海中的动作 与 录像中自己的动作 相去甚远. <br>你认为自己是个什么样的人? 如果别人做出你的行为 你一定会认同吗? 别人如何评价你?<br>镜子之前，古人无法跳出自身的角度观察自己。
-现代人拥有更多方法，如自拍、视频。<br>为什么需要第三人称镜头? 我们常常不能意识到我们与我们脑海中的自己是相当不同的。尽管自己是最了解、最熟悉自己的人，但对自己的评价、判断正因此偏离实际情况。我们有时放大自己的优点，甚至自傲自恋、自以为是；有时候放大自己的缺点，以为自己的问题多么特殊，陷入自卑自怜、自怨自艾。
-他人的判断很难比自己的判断中肯，因为他们永远无法得知我的内心活动。而我如果自己能拥有第三者视角，那么对自己的判断准确度简直仿佛上帝视角。]]></description><link>写作\镜.html</link><guid isPermaLink="false">写作/镜.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:02 GMT</pubDate></item><item><title><![CDATA[阅读]]></title><description><![CDATA[ 
- <br>阅读方法论<br>
-<br>PACER
-- Procedural
-- Practice
-- Analogous
-- Critique
-- Conceptual
-- Mapping
-- Evidence
-- Store &amp; Reherse
-- Reference
-- Store &amp; Reherse
-听力辅助
-速度
-]]></description><link>写作\阅读.html</link><guid isPermaLink="false">写作/阅读.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:04 GMT</pubDate></item><item><title><![CDATA[集体]]></title><description><![CDATA[ 
- <br>个人需要舍弃个人利益, 照顾集体的利益到何程度?<br>个人需要照顾自己的利益, 可以放弃集体利益到何程度?]]></description><link>写作\集体.html</link><guid isPermaLink="false">写作/集体.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:06 GMT</pubDate></item><item><title><![CDATA[面子]]></title><description><![CDATA[ 
- <br>我是个非常好面子的人. 这阻碍我展现真正的自我，隐藏缺陷的同时也遮住了我的闪光点. <br>谈谈如何做好“面子工程”]]></description><link>写作\面子.html</link><guid isPermaLink="false">写作/面子.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:08 GMT</pubDate></item><item><title><![CDATA[鞠躬]]></title><description><![CDATA[ 
- <br>我生命中出现的人们。
-感谢相遇，感谢我们的交流，感谢曾经的相遇。<br>鞠躬。
-再鞠躬。]]></description><link>写作\鞠躬.html</link><guid isPermaLink="false">写作/鞠躬.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:09 GMT</pubDate></item><item><title><![CDATA[风采]]></title><description><![CDATA[ 
- <br>记住，做事畏首畏尾、瞻前顾后、爱惜羽毛、想赢怕输的人们，你的人生是一场实验，勇敢的去展现自己的风采。]]></description><link>写作\风采.html</link><guid isPermaLink="false">写作/风采.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:07:11 GMT</pubDate></item><item><title><![CDATA[风险]]></title><description><![CDATA[ 
- <br>人生有风险. <br>人可以和理财时做的合格投资者评估一样, 分为稳定收益型、风险投资型等等.
-人生可以选择安稳, 也可以选择大风大浪. <br>选择本本分分工作 一辈子求个安稳, 或 背上高利贷去赌场一把梭哈 不是飞黄腾达就是天台跳楼, 都没有对错.
-持不同观点的人抨击对方:怂逼、赌徒, 随便他人怎么说, 这都是观点罢了. <br>务实者说 人生成败取决于 临终结算有多少成就;
-冒险家说 人生成败取决于 曾经到达过的最高峰. <br>人生路怎么走, 怎么选, 只有你一个人说了算. <br>作为普通人, 不宜追求太高的风险或收益, 毕竟命是自己的, 大多数的人生很难翻盘.
-作为普通人, 你只不过是70亿分之一而已, 怕什么? 你的命在历史长河中微不足道. <br>人生是一场游戏. <br><br>过马路闯红灯是一种博弈, 在马路边违规停车是一种博弈. ]]></description><link>写作\风险.html</link><guid isPermaLink="false">写作/风险.md</guid><dc:creator><![CDATA[Zhixin Yu]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:09:32 GMT</pubDate></item></channel></rss>
+如果你想要规避部分责任, 请在事先就尽可能地考虑到所有可能的后果, 并制定相应的措施. 而不是在事情发生后, 才去想如何补救. ]]></description><link>https://note-gamma-eight.vercel.app/写作/责任.html</link><guid isPermaLink="false">写作/责任.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:52 GMT</pubDate></item><item><title><![CDATA[正确]]></title><description><![CDATA[ 
+ <br>世界上有对错吗？没有。<br>任何事情都没有对错。宇宙的诞生不是对的, 我扶老奶奶过马路不是对的, 一颗灭绝恐龙的陨石不是错的, 连环杀人犯虐杀儿童不是错的... 它们仅仅是事实, 它们发生过.<br>对错是人的观点。<br>个体有观点是可以理解的, 那么为什么一个庞大的集体要积极捍卫某一种观点, 并对另一种观点进行强烈的排斥呢?]]></description><link>https://note-gamma-eight.vercel.app/写作/正确.html</link><guid isPermaLink="false">写作/正确.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:14 GMT</pubDate></item><item><title><![CDATA[知行合一]]></title><description><![CDATA[ 
+ <br>为什么知行合一这么难?
+是什么阻止我知行合一? <br>因为道理往往是简短的一句话, 但客观现实是庞杂交织的. <br>道理说:
+但道理没说: <br>能够落实自己的信仰, 排除阻碍因素的人, 是值得敬佩的. ]]></description><link>https://note-gamma-eight.vercel.app/写作/知行合一.html</link><guid isPermaLink="false">写作/知行合一.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:00:36 GMT</pubDate></item><item><title><![CDATA[主见]]></title><description><![CDATA[ 
+ <br>旅游时，我很愿意听别人的想法，别人想去哪里就去哪里，想吃什么就吃什么，想玩什么就玩什么。<br>流行的说法是：旅游是检验一个人是否适合结婚的快捷方法。因为旅游时，容易集中爆发矛盾。
+我一度以为这是我脾气好的表现，但最近感悟，这是因为我对于旅游没有太多自己的想法，没有主见。<br>当妈妈想要为新房子购买一个新的扫拖一体机器人时，我表达了反对，理由如下：
+前几年买的扫地机器人，没用几次就不用了；新的房子面积更小，买一个扫拖一体的，但不必要买机器人，人工打扫就很方便了。
+另外，邻居推荐购买方形的机器人，理由是可以清洁到角落。我认为各大厂商的主力机型都是圆形，这是有原因的，一定比一个邻居的推荐更有道理。<br>我妈说：你很拗（固执）。
+我突然反应过来：在这件事上，我有自己的看法，有主见。所以我不会无条件顺从他人的想法。]]></description><link>https://note-gamma-eight.vercel.app/写作/主见.html</link><guid isPermaLink="false">写作/主见.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 12:59:04 GMT</pubDate></item><item><title><![CDATA[专注]]></title><description><![CDATA[ 
+ <br>乔布斯: Focusing is about saying no. 专注的本质就是说不。]]></description><link>https://note-gamma-eight.vercel.app/写作/专注.html</link><guid isPermaLink="false">写作/专注.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Mon, 21 Jul 2025 03:29:09 GMT</pubDate></item><item><title><![CDATA[状态]]></title><description><![CDATA[ 
+ <br>工作积极性、注意力、当下心情、打球手感、写作灵感，这些都是状态。<br>如何维持状态？<br>业余的人依赖感觉、灵感、心情；
+专业的人则知道如何迅速进入状态，即使在状态不佳时，也能迅速提升状态，在关键时刻提升一个层次。<br>梅德韦德夫评价网坛三巨头时说：“三巨头与我们最大的区别在于，他们在状态低迷的时候依然能发挥出较高的水准。”
+柴可夫斯基说：“我每天都在没有真正灵感的情况下工作。如果我向自己的厌烦投降，毫无疑问地我将进入一段很长的闲置期。可是我的耐性和信念没有让我失望，而今天我终于感受到了那难以言喻的灵感辉光。”
+Chuck Close说：“灵感是给业余者的。我们其他人只是出现并开始工作。如果你等待云开雾散和灵光一现，你将不会完成太多工作。所有最好的想法都来自于过程；它们来自于工作本身。”<br>在低谷时，如何让自己振奋起来？
+消极情绪时，如何转变心态？
+注意力涣散时，如何重新专注？
+不想工作时，如何高质量完成任务？<br>牢记关键节点，拆解大任务，完成简单步骤。
+保持良好体力，合理补充能量。
+场下劳逸结合，场上亦然。
+保持正确的心态与思维方式。
+找到自己的仪式(ritual)。<br>专注力和体力一样, 需要合理分配, 合理补充.
+如果对每件事都100%专注, 只会加速精疲力竭.
+重复训练, 肌肉记忆, 养成习惯, 借助工具, 无需思考也能自动完成. <br>专业人士经过大量训练时，最基本的操作也比业余玩家的神经刀更强大。
+灵感就像天赋，只有在最顶尖的、能力被挖掘至极限的情况下才有意义。对于大多数人，稳定完成比惊鸿一瞥实用得多。<br>灵感迸发, 写出金句, 心情一级棒, 打出神仙球, 接到巨单... 都是可遇不可求, 更重要的是 保持在线 保质保量 情绪稳定 把每一颗球打回去. ]]></description><link>https://note-gamma-eight.vercel.app/写作/状态.html</link><guid isPermaLink="false">写作/状态.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:10:50 GMT</pubDate></item><item><title><![CDATA[自发乐]]></title><description><![CDATA[ 
+ <br>情绪的本能是一种被低估的能力. 这对于长期关系至关重要.<br>我和老婆, 从自发乐角度来看 是两种性格的人. <br>老婆乐于发现生活中小事情的可乐点]]></description><link>https://note-gamma-eight.vercel.app/写作/自发乐.html</link><guid isPermaLink="false">写作/自发乐.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:34 GMT</pubDate></item><item><title><![CDATA[自洽]]></title><description><![CDATA[ 
+ <br>我的思想与行为并不因我面对的人而成立或破碎。<br>我的行为与我的思想匹配，知行合一。
+精进我的思想，使其不至于在外部逻辑下不堪一击，经受得起顶峰与深渊的考验，同时保持可塑性与适应性。]]></description><link>https://note-gamma-eight.vercel.app/写作/自洽.html</link><guid isPermaLink="false">写作/自洽.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:38 GMT</pubDate></item><item><title><![CDATA[自我管理]]></title><description><![CDATA[ 
+ <br>人生读书学习的过程是从 按照课本不断升学的被动学习，到发现和确定自己想要什么并主动寻找学习路径的主动学习过程。这就是我们常说的自学能力。自学能力不光包含了如何学，更重要的是学什么，为什么学。<br>人生还有另一门重要的课 自我管理能力。同理 是从按照长辈、老师指导的被动管理，到对自己的人生有明确的日程表规划的过程。小到今天为什么而起床，大到此生为什么事业而奋斗，其根本是坚信在此时此刻做此事的理由，有一个强大的内在驱动力。<br>后者对于内驱力的需求是更大的。]]></description><link>https://note-gamma-eight.vercel.app/写作/自我管理.html</link><guid isPermaLink="false">写作/自我管理.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:06:36 GMT</pubDate></item><item><title><![CDATA[尊重对手]]></title><description><![CDATA[ 
+ <br>费德勒尊重对手，无论强弱，我相信这是他从小受到的教育。谦逊让他在赛场上拥有强大而平和的内心。<br>
+2011年美网手握赛点被翻盘并不稀奇，网球比赛就是这样瞬息万变，这也不能说明费德勒的心态失稳。但在赛后发布会上的惊人言论让世界瞥见了一个不优雅的费德勒。<br>
+面对德约，他心态始终不能摆正，并不只是因为德约能夺走他的胜利。赛场上的失利谁都得经历，输不起才是真正的失败。<br>
+早在2006年，德约频繁退赛就令费德勒十分不屑，以至于世界第一先生在接受采访时公开发表轻蔑、鄙夷的言论。这在当时可以理解，因为没人知道德约患有麸质不耐症。可多年后，即使德约的实力已被证明，费德勒依然无法调整好心态，始终无法像接受被纳达尔击败一样坦然接受德约的胜利。<br>
+有时候，人不是去善待被自己伤害过的人，反而将对后者的愧疚感和对自身的羞耻心转移到后者身上，更加憎恶后者。这是一种反直觉的、微妙的心理状态，也反噬了2011年温布尔顿的草地王子。越是被瞧不起的对手击败，越是容易击碎骄傲的心。<br>
+错误帮助我们更好地认识自己。2019年温网重蹈覆辙后的他能够坦然面对结果并发自内心地称赞德约，成为一个更伟大的球员。]]></description><link>https://note-gamma-eight.vercel.app/写作/尊重对手.html</link><guid isPermaLink="false">写作/尊重对手.md</guid><dc:creator><![CDATA[Xinnerpeace]]></dc:creator><pubDate>Sat, 19 Jul 2025 13:11:09 GMT</pubDate></item></channel></rss>
